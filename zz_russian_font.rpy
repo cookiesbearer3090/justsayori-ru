@@ -15,8 +15,7 @@ init 100 python:
         try:
             getattr(style, style_name).font = font_name
         except Exception:
-            # Style names differ between Just Sayori builds. A missing
-            # optional style must not stop the rest of the font fixes.
+            #
             pass
 
     for _ru_style_name in (
@@ -41,3 +40,53 @@ init 100 python:
         style.say_dialogue.size = 24
     except Exception:
         pass
+translate ru style default:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style say_dialogue:
+    size 24
+
+translate ru style normal:
+    size 24
+
+translate ru style splash_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style edited:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style poemgame_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style sayori_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style gui_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style button_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style say_label:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style navigation_button_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style game_menu_label_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style pref_label_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style radio_button_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style check_button_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
+
+translate ru style choice_button_text:
+    size 24
+
+translate ru style console_text:
+    font "mod_assets/fonts/NotoSansSC-Bold.ttf"
