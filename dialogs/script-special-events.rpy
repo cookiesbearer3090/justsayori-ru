@@ -4,7 +4,7 @@
 translate ru s_player_birthday_74afd826:
 
     # s abhfaoa "Hey [player], I was wondering."
-    s abhfaoa "Хей [player], я тут задумалась."
+    s abhfaoa "Эй [player], я тут задумалась."
 
 # game/dialogs/script-special-events.rpy:21
 translate ru s_player_birthday_7afa2fe1:
@@ -16,7 +16,7 @@ translate ru s_player_birthday_7afa2fe1:
 translate ru s_player_birthday_660d59e4:
 
     # extend abgbcoa "but I’m sure you know when yours is! Ehehehe~"
-    extend abgbcoa "Но!Я уверена, что ты точно знаешь когда у тебя свой день рождения! Эхех~"
+    extend abgbcoa "Но! Я уверена, что ты точно знаешь когда у тебя свой день рождения! Эхех~"
 
 # game/dialogs/script-special-events.rpy:23
 translate ru s_player_birthday_18740fee:
