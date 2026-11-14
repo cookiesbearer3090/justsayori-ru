@@ -1,5 +1,5 @@
 # TODO: Translation updated at 2026-11-02 11:36
-
+# original https://github.com/New-Traduction-Club/justsayori-mod-tl-russian my translation 46-99
 translate ru strings:
 
     # game/mod_extras/bsod.rpy:73
@@ -40,7 +40,7 @@ translate ru strings:
 
     # game/mod_extras/bsod.rpy:94
     old ":("
-    new ""
+    new ":("
 
     # game/mod_extras/bsod.rpy:95
     old "Your PC ran into a problem and needs to restart."
