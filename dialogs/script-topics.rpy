@@ -2300,7 +2300,7 @@ translate ru s_topic_voice_9f82b9cf:
 translate ru s_topic_voice_04d4aaef:
 
     # extend abfbbora "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}T4LK L1KE 4 R0B0T{/cps}{/font}?"
-    extend abfbbora "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}ГОВ0РNЛА К4К Р0БОТ?{/cps}{/font}?""
+    extend abfbbora "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}ГОВ0РNЛА К4К Р0БОТ?{/cps}{/font}?"
 
 # game/dialogs/script-topics.rpy:963
 translate ru s_topic_voice_9c24fab3:
@@ -7006,8 +7006,6 @@ translate ru s_topic_boba_593cf7b5:
     s abfcaaa "С удовольствием как-нибудь выпила бы с тобой баблтишку, [player]!"
 
 # game/dialogs/script-topics.rpy:3109
-translate rus s_topics_like_flowers_692a1849:
-
 translate ru s_topics_like_flowers_692a1849:
 
     # s abhfaoa "Hey [player], do you like flowers?"
