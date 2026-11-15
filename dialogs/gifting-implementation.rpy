@@ -4,7 +4,7 @@
 translate ru js_cookies_reaction_b66d7e6e:
 
     # s abhfaaa "Oh, more cookies! I love them!"
-    s abhfaaa "О, много печенек! Я люблю их!"
+    s abhfaaa "О, ещё печеньки! Я люблю их!"
 
 # game/dialogs/gifting-implementation.rpy:43
 translate ru js_cookies_reaction_168dfbd7:
@@ -22,7 +22,7 @@ translate ru js_cookies_reaction_c91a3f07:
 translate ru js_otter_reaction_d9774da5:
 
     # s "An otter plushie!"
-    s "И плюшевую выдру!"
+    s "Плюшевую выдру!" #Это последствия зрения -6? Или чо?
 
 # game/dialogs/gifting-implementation.rpy:50
 translate ru js_otter_reaction_31e25422:
@@ -40,7 +40,7 @@ translate ru js_yum_reaction_c91a3f07:
 translate ru js_no_gift_found_0f6191cd:
 
     # s "I checked just in case, but I didn't find any gifts for me this time!"
-    s "Я посмотрела коробку, но я не смогла найти там подарки!"
+    s "Я посмотрела, но я не смогла найти там подарки!"
 
 # game/dialogs/gifting-implementation.rpy:69
 translate ru js_no_gifts_folder_error_d3f3ffa3:
@@ -58,5 +58,5 @@ translate ru js_no_gifts_folder_error_3ce72c81:
 translate ru js_no_gifts_folder_error_dcb69bec:
 
     # s "[player], could you please make sure the 'gifts' folder is in the game's main directory?"
-    s "[player], можешь убедиться, что папка 'подарки' в директории game?"
+    s "[player], можешь убедиться, что папка 'gifs' в директории game?"
 

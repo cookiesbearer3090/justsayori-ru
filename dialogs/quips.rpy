@@ -16,7 +16,7 @@ translate ru strings:
 
     # game/dialogs/quips.rpy:9
     old "Something on your mind?"
-    new "Что-то придумал?"
+    new "О чём думаешь?" #Так лучше будет
 
     # game/dialogs/quips.rpy:9
     old "Yes, [player]?"
@@ -36,7 +36,7 @@ translate ru strings:
 
     # game/dialogs/quips.rpy:19
     old "Ask away, [player]."
-    new "Спрашивай, [player]?"
+    new "Спрашивай, [player]."# Да под чем я знаки ставил.
 
     # game/dialogs/quips.rpy:19
     old "Don't be shy, [player]."
@@ -84,7 +84,7 @@ translate ru strings:
 
     # game/dialogs/quips.rpy:53
     old "Of course we can talk, [player]~"
-    new "Конечно мы может поговорить, [player]~"
+    new "Конечно мы можем поговорить, [player]~"
 
     # game/dialogs/quips.rpy:53
     old "Take all the time you need, [player]."
@@ -92,11 +92,11 @@ translate ru strings:
 
     # game/dialogs/quips.rpy:53
     old "We can talk about whatever you'd like, [player]."
-    new "Мы можем говорит о чём угодно, что тебе нравится, [player]."
+    new "Мы можем говорить о чём угодно, что тебе нравится, [player]."
 
     # game/dialogs/quips.rpy:73
     old "<3"
-    new ">_<"
+    new "<3" #Мой любимый >_<.Наверн убрать надо
 
     # game/dialogs/quips.rpy:73
     old "Take all the time you need, [player]~"
@@ -108,5 +108,5 @@ translate ru strings:
 
     # game/dialogs/quips.rpy:73
     old "Oh? Something...{w=0.3}{i}important{/i} on your mind, [player]?~"
-    new "Оу?Что-то..{w=0.3}{i}важное{/i} в твоей голове, [player]?~."
+    new "Оу? Что-то...{w=0.3}{i}важное{/i} в твоей голове, [player]?~"
 

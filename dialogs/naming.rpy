@@ -58,19 +58,19 @@ translate ru sayori_give_nickname_fb037e2a:
 translate ru sayori_give_nickname_600e0686:
 
     # s abhfaoa "Let me know if you ever come up with a new nickname for me!"
-    s abhfaoa "Дай знать если захочешь дать мне новое прозвище!"
+    s abhfaoa "Дай знать, если захочешь дать мне новое прозвище!"
 
 # game/dialogs/naming.rpy:241
 translate ru sayori_give_nickname_0c02cc29:
 
     # s bbhfaca "This isn't like you..."
-    s bbhfaca "Это не похоже на тебя"
+    s bbhfaca "Это не похоже на тебя..."
 
 # game/dialogs/naming.rpy:242
 translate ru sayori_give_nickname_11d2baa4:
 
     # s bbhflfa "That hurt, [player]..."
-    s bbhflfa "Это больно, [player]"
+    s bbhflfa "Это больно, [player]..."
 
 # game/dialogs/naming.rpy:250
 translate ru sayori_give_nickname_08c36efe:
@@ -94,25 +94,25 @@ translate ru sayori_give_nickname_618a00a1:
 translate ru sayori_give_nickname_0ff6c2ea:
 
     # s bbhflcag "Please stop..."
-    s bbhflcag "Пожалуйста хватит"
+    s bbhflcag "Пожалуйста, хватит..."
 
 # game/dialogs/naming.rpy:268
 translate ru sayori_give_nickname_0378bf08:
 
     # s cbhfacah "No."
-    s cbhfacah "Нет"
+    s cbhfacah "Нет."
 
 # game/dialogs/naming.rpy:269
 translate ru sayori_give_nickname_50812947:
 
     # s cbhflfah "No more."
-    s cbhflfah "Больше не надо"
+    s cbhflfah "Больше не надо."
 
 # game/dialogs/naming.rpy:287
 translate ru sayori_give_nickname_bc858fc5:
 
     # s abfcaob "Aww that’s a great nickname! {w=0.5}{nw}"
-    s abfcaob "Оуу, какая прекрасная кличка!"
+    s abfcaob "Оуу, какая прекрасная кличка! {w=0.5}{nw}"
 
 # game/dialogs/naming.rpy:288
 translate ru sayori_give_nickname_94fd8da3:

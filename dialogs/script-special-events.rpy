@@ -22,5 +22,5 @@ translate ru s_player_birthday_660d59e4:
 translate ru s_player_birthday_18740fee:
 
     # s abhfaaa "When’s your birthday, [player]?"
-    s abhfaaa "Так, когда твой день рождения , [player]?"
+    s abhfaaa "Так, когда твой день рождения, [player]?"
 

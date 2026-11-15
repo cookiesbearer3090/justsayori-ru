@@ -4,7 +4,7 @@
 translate ru splashscreen_0320a168:
 
     # "[config.name] is a Doki Doki Literature Club fan mod that is not affiliated with Team Salvato."
-    "'Только Сайори' является фанатской модификацией к игре 'Тук-Тук Литературный клуб', которая не связана с командоц Салвато."
+    "'Только Сайори' является фанатской модификацией к игре 'Тук-Тук Литературный клуб', которая не связана с командой Салвато."
 
 # game/core/splash.rpy:310
 translate ru splashscreen_12775544:
@@ -16,7 +16,7 @@ translate ru splashscreen_12775544:
 translate ru splashscreen_e193832f:
 
     # "Game files for Doki Doki Literature Club are required to play this mod and can be downloaded for free at: http://ddlc.moe"
-    "Официальные файлы для работы игры могут быть загружены отсюда: http://ddlc.moe или со стима(ато ты ж конечно смог это запустить без файлов ориг игры)."
+    "Официальные файлы для работы игры могут быть загружены отсюда: http://ddlc.moe или со стима(а то ты ж конечно смог это запустить без файлов ориг игры)."
 
 # game/core/splash.rpy:392
 translate ru after_load_78a4e9dc:
@@ -34,7 +34,7 @@ translate ru strings:
 
     # game/core/splash.rpy:24
     old "This game is an unofficial fan game that is unaffiliated with Team Salvato."
-    new "Это неофициальная фан игра , не связанная с Team Salvato."
+    new "Это неофициальная фан-игра, не связанная с Team Salvato."
 
     # game/core/splash.rpy:27
     old "Please support Doki Doki Literature Club."
@@ -50,7 +50,7 @@ translate ru strings:
 
     # game/core/splash.rpy:312
     old "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
-    new "Играя в 'Только Сайори' вы соглашаетесь, что прошли ддлк и знаете сюжет."
+    new "Играя в 'Только Сайори', вы соглашаетесь, что прошли ддлк и знаете сюжет."
 
     # game/core/splash.rpy:314
     old "I agree."

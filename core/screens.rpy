@@ -4,7 +4,7 @@ translate ru strings:
 
     # game/core/screens.rpy:9
     old "Enabling this will let Sayori use your system notifications, and check if JS is your active window"
-    new "Включение позволит Сайори отправлять системные уведомления, чекните является ли Сайори активным окном"
+    new "Включение этой функции позволит Сайори использовать уведомления и проверять, является ли мод твоим активным окном."
 
     # game/core/screens.rpy:268
     old "History"
@@ -32,7 +32,7 @@ translate ru strings:
 
     # game/core/screens.rpy:296
     old "There's no point in saving anymore.\nDon't worry, I'm not going anywhere."
-    new "В этом больше нет смысла.\nНе переживаю, я никуда больше не уйду."
+    new "В этом больше нет смысла.\nНе переживай, я никуда больше не уйду."
 
     # game/core/screens.rpy:347
     old "Invalid Name"
@@ -60,7 +60,7 @@ translate ru strings:
 
     # game/core/screens.rpy:394
     old "There's no point!\nYou'll just get back here!"
-    new "Это не имеет смысла!\nТы просто вренёшься обратно!"
+    new "Это не имеет смысла!\nТы просто вернёшься обратно!"
 
     # game/core/screens.rpy:398
     old "Submods"
@@ -92,7 +92,7 @@ translate ru strings:
 
     # game/core/screens.rpy:616
     old "There's no point in saving. \nNot when we're sitting here doing nothing..."
-    new "Нет смысла сохраняться. \nКогда мы сидим и ничего не делаем"
+    new "Нет смысла сохраняться. \nКогда мы сидим и ничего не делаем..."
 
     # game/core/screens.rpy:665
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -160,11 +160,11 @@ translate ru strings:
 
     # game/core/screens.rpy:873
     old "Web functions"
-    new "Веб функции"
+    new "Веб-функции"
 
     # game/core/screens.rpy:879
     old "Font Style"
-    new "Стуль Шрифта"
+    new "Стиль Шрифта" #СТУЛЬ ШРИФТА. Похоже я старею...
 
     # game/core/screens.rpy:881
     old "Default Font"
@@ -212,7 +212,7 @@ translate ru strings:
 
     # game/core/screens.rpy:1641
     old "Screenshot"
-    new "Скриншоты"
+    new "Скриншот"
 
     # game/core/screens.rpy:1647
     old "M"
