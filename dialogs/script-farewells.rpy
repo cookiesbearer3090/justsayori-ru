@@ -58,19 +58,19 @@ translate ru s_farewell_3_b4bce787:
 translate ru s_farewell_4_b4fdd37a:
 
     # s "Bye-bye!"
-    s "Пока-пока"
+    s "Пока-пока!"
 
 # game/dialogs/script-farewells.rpy:132
 translate ru s_farewell_4_1d570586:
 
     # s "I'll be wishing you health and happiness!"
-    s "Желай тебе счастья и здоровья!"
+    s "Желаю тебе счастья и здоровья!"
 
 # game/dialogs/script-farewells.rpy:133
 translate ru s_farewell_4_9a36ac46:
 
     # s abhebaka "Be safe out there, okay, [player]? Ehehehe~"
-    s abhebaka "Будь осторожен, хорошо [player]?Эхехехе~"
+    s abhebaka "Будь осторожен, хорошо, [player]? Эхехехе~"
 
 # game/dialogs/script-farewells.rpy:152
 translate ru s_farewell_6_6e992571:
@@ -106,7 +106,7 @@ translate ru s_farewell_7_0c657e1e:
 translate ru s_farewell_7_f7c166bc:
 
     # s abfdbcqa "But as long as you know that I would, I’m happy, ehehehe~"
-    s abfdbcqa "Но главное, что ты знаешь мой желания, я счастлива, эхехехе~"
+    s abfdbcqa "Но главное, что ты знаешь мои желания, я счастлива, эхехехе~"
 
 # game/dialogs/script-farewells.rpy:176
 translate ru s_farewell_school_93373658:
@@ -184,7 +184,7 @@ translate ru s_farewell_eat_c96f91ad:
 translate ru s_farewell_work_out_6ac42806:
 
     # s abhfaoa "Ooooh! Wanna work out a bit [player]?"
-    s abhfaoa "Ухх! Хочешь потренироваться [player]?"
+    s abhfaoa "ООО! Хочешь потренироваться, [player]?"
 
 # game/dialogs/script-farewells.rpy:248
 translate ru s_farewell_work_out_d04690a0:
@@ -196,7 +196,7 @@ translate ru s_farewell_work_out_d04690a0:
 translate ru s_farewell_work_out_20a589f2:
 
     # s abfcaoa "I hope you have fun! Bye-bye!"
-    s abfcaoa "Надеюсь ты повеселишься! Поки-поки!"
+    s abfcaoa "Надеюсь, ты повеселишься! Поки-поки!"
 
 # game/dialogs/script-farewells.rpy:266
 translate ru s_farewell_sleep_46234056:
@@ -298,13 +298,13 @@ translate ru s_farewell_long_absence_752c78ce:
 translate ru s_farewell_long_absence_49d27a9b:
 
     # s abfcaca "Do you know how long you’ll be gone for?{nw}"
-    s abfcaca "Ты знаешь сколько тебя не было?{nw}"
+    s abfcaca "Ты знаешь, как долго тебя не будет?{nw}"
 
 # game/dialogs/script-farewells.rpy:347
 translate ru s_farewell_long_absence_d14c5e43:
 
     # s "Do you know how long you’ll be gone for?{fast}" nointeract
-    s "Ты знаешь сколько тебя не было?{fast}" nointeract
+    s "Ты знаешь, как долго тебя не будет?{fast}" nointeract
 
 # game/dialogs/script-farewells.rpy:350
 translate ru s_farewell_long_absence_1c3ea9c8:

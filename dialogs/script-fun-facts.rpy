@@ -10,7 +10,7 @@ translate ru s_fun_fact_beginning_test_0b4ce13c:
 translate ru fae_fun_facts_end_bd524804:
 
     # s abbccoa "I hope you enjoyed that one!"
-    s abbccoa "Я надеюсь тебе понравится!"
+    s abbccoa "Я надеюсь, тебе понравится!"
 
 # game/dialogs/script-fun-facts.rpy:79
 translate rus s_fun_fact_arts_8fe4b7ed:
@@ -58,7 +58,7 @@ translate ru s_fun_fact_arts_4cadcfb7:
 translate ru s_fun_fact_arts_724f88d3:
 
     # s abaaaoa "Nat tells you a little of what it's about, then that's pretty much it."
-    s abaaaoa "Нацуки расказала тебе немного о ней, и на этом по сути всё."
+    s abaaaoa "Нацуки расcказала тебе немного о ней, и на этом по сути всё."
 
 # game/dialogs/script-fun-facts.rpy:87
 translate ru s_fun_fact_arts_f12c56fc:
@@ -88,7 +88,7 @@ translate ru s_fun_fact_number4_b1b5b2c8:
 translate ru s_fun_fact_number4_f651d9ec:
 
     # s abhaaca "And I recently noticed that it's weirdly connected to this game too."
-    s abhaaca "Я заметила много странных совпаднии с ней в игре."
+    s abhaaca "Я заметила много странных совпадении с ней в игре."
 
 # game/dialogs/script-fun-facts.rpy:105
 translate ru s_fun_fact_number4_2816a078:
@@ -136,7 +136,7 @@ translate ru s_fun_fact_interpretingWords_7aed8b31:
 translate ru s_fun_fact_interpretingWords_7af09cca:
 
     # s abaacoa "And it always happens with the tiny obvious words!"
-    s abaacoa "И это всегда происходит с простым словами!"
+    s abaacoa "И это всегда происходит с простыми словами!"
 
 # game/dialogs/script-fun-facts.rpy:125
 translate ru s_fun_fact_interpretingWords_2343dd3e:
@@ -154,13 +154,13 @@ translate ru s_fun_fact_interpretingWords_1aa28f13:
 translate ru s_fun_fact_interpretingWords_582ebd01:
 
     # s abbcaaa "And that's why we make silly mistakes while writing from time to time."
-    s abbcaaa "Поэтому мы делаем глупые ошибки"
+    s abbcaaa "Поэтому мы иногда делаем глупые ошибки"
 
 # game/dialogs/script-fun-facts.rpy:128
 translate ru s_fun_fact_interpretingWords_3ffb105e:
 
     # s "There’s some funny and not so funny examples of misspellings in the past because someone didn't go back to fix a word or two."
-    s "Есть много забавных или  примеров ошибок, которые не исправляли, потому что кому-то было лень искать одно или два слово."
+    s "Есть много забавных и не очень примеров ошибок, которые не исправляли, потому что кому-то было лень искать слово или два."#а мне не лень, я нашёл и исправил!
 
 # game/dialogs/script-fun-facts.rpy:129
 translate ru s_fun_fact_interpretingWords_1300b5d6:
@@ -178,7 +178,7 @@ translate ru s_fun_fact_interpretingWords_d3a1ac35:
 translate ru s_fun_fact_Binary_44f9d909:
 
     # s abhaaca "Did you know that you can show numbers much bigger than 5 with just one hand?"
-    s abhaaca "Ты знал, что можно показывать больше 5 чисел одной рукой?"
+    s abhaaca "Ты знал, что одной рукой можно показать числа гораздо 5?"
 
 # game/dialogs/script-fun-facts.rpy:144
 translate ru s_fun_fact_Binary_296e2f36:
@@ -190,7 +190,7 @@ translate ru s_fun_fact_Binary_296e2f36:
 translate ru s_fun_fact_Binary_eeb90e16:
 
     # s "Just look at your fingers, they’re a perfect match for the classic 0/1 pair!"
-    s "Просто посмотри на свой пальцы, они идеальны для пары 0/1"
+    s "Просто посмотри на свои пальцы, они идеальны для пары 0/1"
 
 # game/dialogs/script-fun-facts.rpy:146
 translate ru s_fun_fact_Binary_a9c3ea5e:
@@ -238,7 +238,7 @@ translate ru s_fun_fact_Binary_d135352b:
 translate ru s_fun_fact_dreams_83778c25:
 
     # s abhfaoa "Hey [player], have you ever woken up from an amazing dream and, no matter how hard you try, you just completely forget it?"
-    s abhfaoa "Хей [player], ты когда-нибудь просыпался после замечательного сна, и старался запомнить его,но ты забывал его?"
+    s abhfaoa "Хей [player], ты когда-нибудь просыпался после замечательного сна, и старался запомнить его, но ты забывал его?"
 
 # game/dialogs/script-fun-facts.rpy:166
 translate ru s_fun_fact_dreams_5163eeef:
@@ -250,7 +250,7 @@ translate ru s_fun_fact_dreams_5163eeef:
 translate ru s_fun_fact_dreams_a74a457c:
 
     # s abbcaoa "Apparently, most people forget 90%% of their dreams within 10 minutes of waking up!"
-    s abbcaoa "Многие люди забываюь 90% своих снов через 10 минут!"
+    s abbcaoa "Многие люди забывают 90% своих снов через 10 минут!"
 
 # game/dialogs/script-fun-facts.rpy:168
 translate ru s_fun_fact_dreams_864c3d37:
@@ -274,7 +274,7 @@ translate ru strings:
 
     # game/dialogs/script-fun-facts.rpy:36
     old "Can you tell me a fun fact?"
-    new "Можешь сказать мне интересный факт?"
+    new "Можешь рассказать мне интересный факт?"
 
     # game/dialogs/script-fun-facts.rpy:36
     old "Misc"

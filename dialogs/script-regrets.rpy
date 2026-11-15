@@ -4,7 +4,7 @@
 translate ru regret_cheat_game_34a7ffcd:
 
     # s "Thank you for apologising."
-    s "Спасибо тебе за извинения"
+    s "Спасибо тебе за извинения."
 
 # game/dialogs/script-regrets.rpy:72
 translate ru regret_cheat_game_0ac1d904:
@@ -16,13 +16,13 @@ translate ru regret_cheat_game_0ac1d904:
 translate ru regret_cheat_game_5f4c2879:
 
     # s "You don't want Nathan to hunt you down."
-    s "Ты же не хочешься, чтобы Натан тебя выследил?"
+    s "Ты же не хочешь, чтобы Натан тебя выследил?" #Да под чем я такие ошибки делал?
 
 # game/dialogs/script-regrets.rpy:74
 translate ru regret_cheat_game_7b8e7a09:
 
     # s "But thank you for apologizing."
-    s "Но спасибо за извинения"
+    s "Но спасибо за извинения."
 
 # game/dialogs/script-regrets.rpy:75
 translate ru regret_cheat_game_92b2a524:
@@ -40,7 +40,7 @@ translate ru regret_cheat_game_58b20f1e:
 translate ru regret_unexpected_quit_b5d5ba8a:
 
     # s "Thank you."
-    s "Спасибо тебе"
+    s "Спасибо тебе."
 
 # game/dialogs/script-regrets.rpy:117
 translate ru regret_generic_449ebfe0:
@@ -70,7 +70,7 @@ translate ru regret_bad_name_50022304:
 translate ru regret_bad_name_f79deb66:
 
     # s bbfdaaa "I hope you weren’t being serious."
-    s bbfdaaa "Я надеюсь ты не становишься серьёзным"
+    s bbfdaaa "Я надеюсь ты не был серьёзен."
 
 # game/dialogs/script-regrets.rpy:139
 translate ru regret_bad_name_3673e3ce:
@@ -88,13 +88,13 @@ translate ru regret_long_absence_c8b51927:
 translate ru regret_long_absence_968f52a7:
 
     # s abbbaoa "I understand, we all get a little busy sometimes."
-    s abbbaoa "Я понимаю, мы все иногда заняты"
+    s abbbaoa "Я понимаю, мы все иногда бываем заняты."
 
 # game/dialogs/script-regrets.rpy:161
 translate ru regret_long_absence_d17eb80c:
 
     # s abgbcaa "I’m just glad you’re back safe and sound!"
-    s abgbcaa "Я просто рада, что ты вернулся в целости и сохранности"
+    s abgbcaa "Я просто рада, что ты вернулся в целости и сохранности!"
 
 # game/dialogs/script-regrets.rpy:162
 translate ru regret_long_absence_3b964041:
@@ -112,7 +112,7 @@ translate ru regret_offense_76aade57:
 translate ru regret_offense_4a61bf08:
 
     # s bbaamca "What you said really hurt but..."
-    s bbaamca "То что ты сказал было обидно, но"
+    s bbaamca "Твои слова меня действительно задели, но..."
 
 # game/dialogs/script-regrets.rpy:182
 translate ru regret_offense_1e3a5d06:
@@ -124,7 +124,7 @@ translate ru regret_offense_1e3a5d06:
 translate ru regret_offense_f4c150dc:
 
     # s abhfaoa "I’m just glad you took responsibility, let’s move on shall we."
-    s abhfaoa "Я просто рада, что ты взял на себя ответственность, давай двигаться дальше"
+    s abhfaoa "Я просто рада, что ты взял на себя ответственность. Давай двигаться дальше."
 
 translate ru strings:
 
@@ -134,7 +134,7 @@ translate ru strings:
 
     # game/dialogs/script-regrets.rpy:84
     old "For leaving without saying goodbye."
-    new "Уход без прощания"
+    new "За Уход без прощания"
 
     # game/dialogs/script-regrets.rpy:104
     old "For something"
@@ -146,7 +146,7 @@ translate ru strings:
 
     # game/dialogs/script-regrets.rpy:146
     old "For being away for so long."
-    new "За долгий уход"
+    new "За долгое отсутствие"
 
     # game/dialogs/script-regrets.rpy:169
     old "For being offensive."

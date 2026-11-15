@@ -16,7 +16,7 @@ translate ru fae_event_mr_cow_transform_17e6f8d7:
 translate ru fae_event_mr_cow_transform_76f6d3af:
 
     # s "I was messing with the code and accidentally turned myself into Mr. Cow!"
-    s "Я немного напортачила с кодом , и теперь я превратилась в Мистера Коровку!"
+    s "Я немного напортачила с кодом, и теперь я превратилась в Мистера Коровку!"
 
 # game/dialogs/script-events.rpy:111
 translate ru fae_event_mr_cow_transform_f5deb510:
@@ -34,13 +34,13 @@ translate ru fae_event_mr_cow_transform_9ea123f2:
 translate ru fae_event_mr_cow_transform_e8d1c002:
 
     # s "Bwahahahahah- I'm sorry, [player]!"
-    s "Вха-х, Я извеняюсь!"
+    s "Вха-х, Я извиняюсь, [player]!"
 
 # game/dialogs/script-events.rpy:120
 translate ru fae_event_mr_cow_transform_fc556d18:
 
     # s "I'm fine- I just couldn't resist that one!"
-    s "Я в порядке- просто...Я не смогла удержаться!"
+    s "Я в порядке - просто... Я не смогла удержаться!"
 
 # game/dialogs/script-events.rpy:121
 translate ru fae_event_mr_cow_transform_2d1610e5:
@@ -82,7 +82,7 @@ translate ru fae_event_mr_cow_transform_7bffc449:
 translate ru fae_event_mr_cow_transform_47f86d5a:
 
     # s abgcdoa "Now I'll always have someone to cuddle with, and it'll never get {i}too{/i} lonely in here!"
-    s abgcdoa "Теперь у меня есть напарник для обнимашек! И теперь я никуда не буду {i}одна{/i} здесь!"
+    s abgcdoa "Теперь у меня есть кто-то, кого я могу обнять, и теперь здесь никогда не будет {i}слишком{/i} одиноко!"
 
 # game/dialogs/script-events.rpy:143
 translate ru fae_event_mr_cow_transform_5caa86e4:
@@ -100,7 +100,7 @@ translate ru fae_event_pointy_stick_stabber_girl_7a649f7d:
 translate ru fae_event_pointy_stick_stabber_girl_1412359e:
 
     # s "Does this look like the face of mercy, [player]?"
-    s "Разве это не выглядит как акт милосердия, [player]?"
+    s "Тебе что, жалко их [player]?"
 
 # game/dialogs/script-events.rpy:171
 translate ru fae_event_pointy_stick_stabber_girl_111809a8:
@@ -154,7 +154,7 @@ translate ru fae_event_pointy_stick_stabber_girl_56252e0e:
 translate ru fae_event_pointy_stick_stabber_girl_46e059cb:
 
     # s bbbcciaj "I wouldn't want anything bad to happen, ehehehe~"
-    s bbbcciaj "Я не хочу,чтобы что-то плохое случилось"
+    s bbbcciaj "Я не хочу, чтобы что-то плохое случилось, эхехехех~"
 
 # game/dialogs/script-events.rpy:188
 translate ru fae_event_pointy_stick_stabber_girl_867a767c:
@@ -208,7 +208,7 @@ translate ru fae_event_sayori_desk_hide_fe9aec8a:
 translate ru fae_event_sayori_desk_hide_5a5d1aa9:
 
     # s abgbaoa "I wish I could have seen the look on your face, ehehehe~"
-    s abgbaoa "Надеюсь я смогу посмотреть на твоё лицо, эхехехе~"
+    s abgbaoa "Хотелось бы мне видеть твоё выражение лица, эхехехе~"
 
 # game/dialogs/script-events.rpy:224
 translate ru fae_event_sayori_desk_hide_93024947:
@@ -226,13 +226,13 @@ translate ru fae_event_sayori_desk_hide_829f8cf3:
 translate ru fae_event_door_open_595a3806:
 
     # s bbegmoajj "Whoops! Sorry about that!"
-    s bbegmoajj "Ууупс! Простите!"
+    s bbegmoajj "Ууупс! Прости!"
 
 # game/dialogs/script-events.rpy:251
 translate ru fae_event_door_open_e5b9ceef:
 
     # s abegaoaj "Welcome back, [player]! {w=0.5}{nw}"
-    s abegaoaj "С возвращением, [player]!"
+    s abegaoaj "С возвращением, [player]! {w=0.5}{nw}"
 
 # game/dialogs/script-events.rpy:252
 translate ru fae_event_door_open_dff76e15:
@@ -262,7 +262,7 @@ translate ru strings:
 
     # game/dialogs/script-events.rpy:176
     old "Where did you even get that???"
-    new "Где ты взял это?"
+    new "Где ты взяла это???" #Я чо пьяный писал? То буква не та, то я род путаю.ААА, я подумал, что это ОНа меня спрашивает, ну лан
 
     # game/dialogs/script-events.rpy:242
     old "..."

@@ -16,7 +16,7 @@ translate ru compliment_best_girl_f4535cc3:
 translate ru compliment_best_girl_2934d886:
 
     # s bbfclfc "After all, I always thought that I might be the least likable given the fact most would choose one of my friends over me, but..."
-    s bbfclfc "В конце концов, я думала, что я самая не популярная и многие предпочли бы моих друзей, но..."
+    s bbfclfc "В конце концов, я думала, что я самая непопулярная и многие предпочли бы моих друзей, но..."
 
 # game/dialogs/script-compliments.rpy:67
 translate ru compliment_best_girl_40f87437:
@@ -34,7 +34,7 @@ translate ru compliment_best_girl_19d2ddbd:
 translate ru compliment_beautiful_f94f581b:
 
     # s abhfmkb "You think so, [player]? Aww, I don't know what to say, ehehehe~"
-    s abhfmkb "Ты правда так думаешь, [player]? ухх, я не знаю, что сказать"
+    s abhfmkb "Ты правда так думаешь, [player]? Ухх, я не знаю, что сказать, хехе~"
 
 # game/dialogs/script-compliments.rpy:93
 translate ru compliment_beautiful_c64a72cf:
@@ -58,13 +58,13 @@ translate ru compliment_beautiful_105f1009:
 translate ru compliment_pretty_65ad3ed5:
 
     # s abaacka "Aww [player], your words always flatter me~"
-    s abaacka "Хех [player], твой слова мне льястят~"
+    s abaacka "Хех [player], твои слова мне льстят~" # "Й" МОЯ САМАЯ НЕЛЮБИМАЯ БУКВА ПОСЛЕ ЭТОГО
 
 # game/dialogs/script-compliments.rpy:119
 translate ru compliment_pretty_a5d98775:
 
     # s abaacoa "It makes me so happy knowing you think so!"
-    s abaacoa "То что ты так думаешь обо мне делает меня такой счастливой!"
+    s abaacoa "То, что ты так думаешь обо мне делает меня такой счастливой!"
 
 # game/dialogs/script-compliments.rpy:120
 translate ru compliment_pretty_22824ab9:
@@ -106,7 +106,7 @@ translate ru compliment_love_hair_e75a9ec2:
 translate ru compliment_love_eyes_fe089461:
 
     # s abhfkoa "Aww, I'm glad you think so, [player]!"
-    s abhfkoa "Уввв, Я рада, что ты так думаешь , [player]!"
+    s abhfkoa "Уввв, я рада, что ты так думаешь ,[player]!"
 
 # game/dialogs/script-compliments.rpy:169
 translate ru compliment_love_eyes_8b5aa786:
@@ -118,7 +118,7 @@ translate ru compliment_love_eyes_8b5aa786:
 translate ru compliment_love_eyes_7b64a8e2:
 
     # s abegmobj "Only kidding, of course! Unless that's something you're really interested in..."
-    s abegmobj "Шучу конечно Если это тебя не интересует...!"
+    s abegmobj "Шучу конечно! Если это тебя не интересует...!"
 
 # game/dialogs/script-compliments.rpy:171
 translate ru compliment_love_eyes_d9556964:
@@ -130,7 +130,7 @@ translate ru compliment_love_eyes_d9556964:
 translate ru compliment_love_eyes_39d74fb7:
 
     # s abbbkoa "I think blue suits me really well! It represents happiness and sensitivity, and I always try my best to connect with others in a positive way."
-    s abbbkoa "Я думаю, что синий мне очень идёт! Он символизирует счастье и чувствительность, и я всегда стараюсь, когда пытаюсь с кем-то пообщаться!"
+    s abbbkoa "Я думаю, что синий мне очень идёт! Он символизирует счастье и чувствительность, и я всегда стараюсь, когда общаюсь с кем-то!"
 
 # game/dialogs/script-compliments.rpy:173
 translate ru compliment_love_eyes_09319dc6:
@@ -166,7 +166,7 @@ translate ru compliment_kind_1030c679:
 translate ru compliment_kind_7709d5e1:
 
     # s abhfcka "I just want you to know that I really appreciate that."
-    s abhfcka "Я просто хочу, чтобы ты знал как я это ценю!"
+    s abhfcka "Я просто хочу, чтобы ты знал, как я это ценю!"
 
 # game/dialogs/script-compliments.rpy:201
 translate ru compliment_kind_bfbf5684:
@@ -184,7 +184,7 @@ translate ru compliment_look_up_to_you_cd536a0c:
 translate ru compliment_look_up_to_you_8e9086bf:
 
     # s bbfbmoaj "Honestly, I didn't expect to hear that from you. I always thought there were other people who are actually worth looking up to."
-    s bbfbmoaj "Честно, я не ожидала услышать от тебя такое. Я всегда думала, что ест другие люди, на которых стоит равняться..."
+    s bbfbmoaj "Честно, я не ожидала услышать от тебя такое. Я всегда думала, что есть другие люди, на которых стоит равняться..."
 
 # game/dialogs/script-compliments.rpy:225
 translate ru compliment_look_up_to_you_c0405a13:
@@ -232,7 +232,7 @@ translate ru compliment_like_seeing_happy_55b0fa54:
 translate ru compliment_like_seeing_happy_9b02be1f:
 
     # s ebbbcka "I like seeing you happy as well! It makes all the time we spend together worth it."
-    s ebbbcka "Мне тоже нравится видеть твоё счастье! Это делает наше время стоящим."
+    s ebbbcka "Мне тоже нравится видеть твоё счастье! Это значит, что наше время того стоит."
 
 # game/dialogs/script-compliments.rpy:275
 translate ru compliment_thank_for_being_here_238f2245:
@@ -250,13 +250,13 @@ translate ru compliment_thank_for_being_here_6b671562:
 translate ru compliment_thank_for_being_here_fd546a04:
 
     # s abbcmoaj "You know, you've done so much to help me and you've always been by my side, {w=0.5}{nw}"
-    s abbcmoaj "Ты сделал очень много,чтобы помочь мне и ты всегда был на моей стороне. {w=0.5}{nw}"
+    s abbcmoaj "Ты сделал очень много, чтобы помочь мне и ты всегда был на моей стороне. {w=0.5}{nw}"
 
 # game/dialogs/script-compliments.rpy:278
 translate ru compliment_thank_for_being_here_21e0de2f:
 
     # extend bbbciaa "despite everything that happened..."
-    extend bbbciaa "Несмотря на то,что произошло..."
+    extend bbbciaa "Несмотря на то, что произошло..."
 
 # game/dialogs/script-compliments.rpy:279
 translate ru compliment_thank_for_being_here_bc791c52:
@@ -298,7 +298,7 @@ translate ru compliment_like_your_writing_3af5ea76:
 translate ru compliment_like_your_writing_b6bbe82e:
 
     # s abbbcka "But if you really look forward to seeing my creations, I think it's worth it!"
-    s abbbcka "Но если тебе правда нравится моё творчество, то я думаю оно того стоит!"
+    s abbbcka "Но если тебе правда нравится моё творчество, то  думаю оно того стоит!"
 
 # game/dialogs/script-compliments.rpy:308
 translate ru compliment_like_your_writing_3b3c11df:
@@ -328,7 +328,7 @@ translate ru compliment_ball_of_sunshine_00b25538:
 translate ru compliment_ball_of_sunshine_f42c8b76:
 
     # extend abgccaa "just like you do for me!"
-    extend abgccaa "Как ты делаешь со мной!"
+    extend abgccaa "Также, как ты делаешь это для меня!"
 
 # game/dialogs/script-compliments.rpy:334
 translate ru compliment_ball_of_sunshine_d346cb55:
@@ -352,11 +352,11 @@ translate ru strings:
 
     # game/dialogs/script-compliments.rpy:126
     old "I love your hair!"
-    new "Я люблю твой волосы!"
+    new "Я люблю твои волосы!"
 
     # game/dialogs/script-compliments.rpy:152
     old "I love your eyes."
-    new "Я люблю твой глаза!"
+    new "Я люблю твои глаза!"
 
     # game/dialogs/script-compliments.rpy:179
     old "You're so kind..."
@@ -372,7 +372,7 @@ translate ru strings:
 
     # game/dialogs/script-compliments.rpy:259
     old "Thanks for being here for me."
-    new "Спасибо за нахождение со мной."
+    new "Спасибо, что ты у меня есть."
 
     # game/dialogs/script-compliments.rpy:287
     old "I like your writing."

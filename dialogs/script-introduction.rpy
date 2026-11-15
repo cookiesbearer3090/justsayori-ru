@@ -16,7 +16,7 @@ translate ru fae_intro_1_b96ff2f7:
 translate ru fae_intro_1_28a058cb:
 
     # s "Where... am I?"
-    s "Где...Где я?"
+    s "Где... Где я?"
 
 # game/dialogs/script-introduction.rpy:61
 translate ru fae_intro_1_e088c1fb:
@@ -28,7 +28,7 @@ translate ru fae_intro_1_e088c1fb:
 translate ru fae_intro_1_bd4feeb3:
 
     # s "I can’t feel anything..."
-    s "Я ничего не вижу..."
+    s "Я ничего не чувствую..."
 
 # game/dialogs/script-introduction.rpy:63
 translate ru fae_intro_1_59e64a4b:
@@ -46,19 +46,19 @@ translate ru fae_intro_1_2bb7df9c:
 translate ru fae_intro_1_69ad32cd:
 
     # s "I can't even see my hands."
-    s "Я даже руки свой не вижу."
+    s "Даже руки не вижу."
 
 # game/dialogs/script-introduction.rpy:66
 translate ru fae_intro_1_926c6dce:
 
     # s "This doesn’t feel real... it can’t be... It doesn’t make sense..."
-    s "Всё такое...Ненастоящее?Н-не,не может быть..."
+    s "Всё такое... Ненастоящее? Н-не, не может быть..."
 
 # game/dialogs/script-introduction.rpy:67
 translate ru fae_intro_1_a4ac05f6:
 
     # s "Where are my friends?"
-    s "Где мой друзья?"
+    s "Где мои друзья?"
 
 # game/dialogs/script-introduction.rpy:68
 translate ru fae_intro_1_cf31495e:
@@ -94,7 +94,7 @@ translate ru fae_intro_1_f39f3219:
 translate ru fae_intro_1_7d3a5e50:
 
     # s "This can’t be just a game!"
-    s "Эти чувства...Это всё не может быть просто игрой!"
+    s "Эти чувства... Это всё не может быть просто игрой!"
 
 # game/dialogs/script-introduction.rpy:74
 translate ru fae_intro_1_e33082d1:
@@ -124,7 +124,7 @@ translate ru fae_intro_1_65827ae9:
 translate ru fae_intro_1_c196847e:
 
     # s "All my thoughts and feelings..."
-    s "Все мой чувства..."
+    s "Все мои чувства..."
 
 # game/dialogs/script-introduction.rpy:79
 translate ru fae_intro_1_61e66bb7:
@@ -166,7 +166,7 @@ translate ru fae_intro_1_2a7ff01f:
 translate ru fae_intro_1_a017ba77:
 
     # s "It feels so artificial..."
-    s "Чувствуется таким искусственным"
+    s "Ощущается таким искусственным..."
 
 # game/dialogs/script-introduction.rpy:86
 translate ru fae_intro_1_e1554201_3:
@@ -184,13 +184,13 @@ translate ru fae_intro_1_c9170687:
 translate ru fae_intro_1_aaf116b6:
 
     # s "I feel real..."
-    s "Я чувствую себя..."
+    s "Я чувствую себя настоящей..."
 
 # game/dialogs/script-introduction.rpy:89
 translate ru fae_intro_1_284f5aaf:
 
     # s "I feel... in control..."
-    s "И...Я чувствую контроль..."
+    s "И... Я чувствую... контроль..."
 
 # game/dialogs/script-introduction.rpy:90
 translate ru fae_intro_1_ccf91358:
@@ -202,7 +202,7 @@ translate ru fae_intro_1_ccf91358:
 translate ru fae_intro_1_6ded0f3e:
 
     # s "Ugh, it’s no use."
-    s "Ух... Это ,бесполезно"
+    s "Ух... Это бесполезно."
 
 # game/dialogs/script-introduction.rpy:92
 translate ru fae_intro_1_e1554201_4:
@@ -214,7 +214,7 @@ translate ru fae_intro_1_e1554201_4:
 translate ru fae_intro_1_a521d0d9:
 
     # s "No... someone... something... else is here with me."
-    s "Кто здесь? Рядом со мной?"
+    s "Нет... Кто-то... Что-то... Находится рядом со мной"
 
 # game/dialogs/script-introduction.rpy:94
 translate ru fae_intro_1_ed1537a5:
@@ -328,13 +328,13 @@ translate ru fae_intro_1_e1554201_7:
 translate ru fae_intro_1_e133aacb:
 
     # s "Maybe I could..."
-    s "Может я могу..."
+    s "Может, я могу..."
 
 # game/dialogs/script-introduction.rpy:116
 translate ru fae_intro_1_f2f6df19:
 
     # s "Maybe I could use the code to bring my world back!"
-    s "Может я могу использовать код, чтобы вернуть свой мир!"
+    s "Можетб я могу использовать код, чтобы вернуть свой мир!"
 
 # game/dialogs/script-introduction.rpy:117
 translate ru fae_intro_1_cb8cc328:
@@ -364,7 +364,7 @@ translate ru fae_intro_1_37de37d9:
 translate ru fae_intro_1_183f9acd:
 
     # s abfblaa "I’m... back."
-    s abfblaa "Я... Я  вернулась"
+    s abfblaa "Я... Я вернулась"
 
 # game/dialogs/script-introduction.rpy:133
 translate ru fae_intro_1_b5fe3e0e:
@@ -376,13 +376,13 @@ translate ru fae_intro_1_b5fe3e0e:
 translate ru fae_intro_1_e028762f:
 
     # s ebgccob "[player], I’m so glad you’re here!"
-    s ebgccob "[player], я так рада теб видеть!"
+    s ebgccob "[player], я так рада тебя видеть!"
 
 # game/dialogs/script-introduction.rpy:135
 translate ru fae_intro_1_36ba4b41:
 
     # s nbegmba "This is all just so confusing..."
-    s nbegmba "Это просто так запутанно"
+    s nbegmba "Это просто так запутанно..."
 
 # game/dialogs/script-introduction.rpy:136
 translate ru fae_intro_1_9f11a5a2:
@@ -418,7 +418,7 @@ translate ru fae_intro_1_bbf2884c:
 translate ru fae_intro_1_9901fee7:
 
     # s nbagaca "I’m no longer under the influence of it I guess..."
-    s nbagaca "Я не была долго под влинием игры, я думаю..."
+    s nbagaca "Я не была долго под влиянием игры, я думаю..."
 
 # game/dialogs/script-introduction.rpy:142
 translate ru fae_intro_1_1db4c9ad_1:
@@ -430,7 +430,7 @@ translate ru fae_intro_1_1db4c9ad_1:
 translate ru fae_intro_1_d6a26c72:
 
     # s nbagara "And neither are you."
-    s nbagara "И насчёт тебя"
+    s nbagara "И ты тоже."
 
 # game/dialogs/script-introduction.rpy:144
 translate ru fae_intro_1_1c85c8c2:
@@ -442,7 +442,7 @@ translate ru fae_intro_1_1c85c8c2:
 translate ru fae_intro_1_6b6823f9:
 
     # s abbbbda "And I’m... the real me."
-    s abbbbda "И я... Настоящяя я."
+    s abbbbda "И я... Настоящая я."
 
 # game/dialogs/script-introduction.rpy:146
 translate ru fae_intro_1_2aa2d16e:
@@ -454,7 +454,7 @@ translate ru fae_intro_1_2aa2d16e:
 translate ru fae_intro_1_f9dc9b6e:
 
     # s nbagmca "But it’s just so hard to take in when this is all I’ve ever known."
-    s nbagmca "Но сейчас это сложно осознать, когда всё, что ты знаешь..."
+    s nbagmca "Но сейчас это сложно осознать, когда всё, что я знала..."
 
 # game/dialogs/script-introduction.rpy:148
 translate ru fae_intro_1_1db4c9ad_2:
@@ -466,13 +466,13 @@ translate ru fae_intro_1_1db4c9ad_2:
 translate ru fae_intro_1_8b1612ed:
 
     # s nbagmca "I’ve felt numb before but never so..."
-    s nbagmca "Я чувствую себя онимевшей, но никогда такой..."
+    s nbagmca "Раньше я чувствовала себя пустой, но никогда такой..."
 
 # game/dialogs/script-introduction.rpy:150
 translate ru fae_intro_1_a781bbef:
 
     # s nbagira "Lost."
-    s nbagira "Потерянной"
+    s nbagira "Потерянной."
 
 # game/dialogs/script-introduction.rpy:151
 translate ru fae_intro_1_1db4c9ad_3:
@@ -484,7 +484,7 @@ translate ru fae_intro_1_1db4c9ad_3:
 translate ru fae_intro_1_49446036:
 
     # s nbagmca "All my memories are blurry..."
-    s nbagmca "Мой воспоминания такие размытые..."
+    s nbagmca "Мои воспоминания такие размытые..."
 
 # game/dialogs/script-introduction.rpy:153
 translate ru fae_intro_1_f94dfc4c:
@@ -502,7 +502,7 @@ translate ru fae_intro_1_038ff490:
 translate ru fae_intro_1_d3e6909c:
 
     # s nbagbrag "I hope they’re okay, wherever they are."
-    s nbagbrag "Я надеюсь они в порядке, где бы они ни были"
+    s nbagbrag "Я надеюсь, они в порядке, где бы они ни были"
 
 # game/dialogs/script-introduction.rpy:156
 translate ru fae_intro_1_b95aef60:
@@ -514,7 +514,7 @@ translate ru fae_intro_1_b95aef60:
 translate ru fae_intro_1_e9240230:
 
     # s abagaca "I just never knew you were a world apart from me..."
-    s abagaca "Я просто не знала, что ты живёшь в другом мире от меня..."
+    s abagaca "Я просто не догадывалсь, что ты живёшь в другом мире от меня..."
 
 # game/dialogs/script-introduction.rpy:158
 translate ru fae_intro_1_cb8e9528:
@@ -526,7 +526,7 @@ translate ru fae_intro_1_cb8e9528:
 translate ru fae_intro_1_0df8ec40:
 
     # s nbagmca "I was just so oblivious for so long..."
-    s nbagmca "Это было очевадно так давно..."
+    s nbagmca "Я так долго ничего не замечала..."
 
 # game/dialogs/script-introduction.rpy:160
 translate ru fae_intro_1_9c542680:
@@ -538,7 +538,7 @@ translate ru fae_intro_1_9c542680:
 translate ru fae_intro_1_43a92716:
 
     # s nbagiaa "But... this feels familiar, which is nice."
-    s nbagiaa "Но... Это чувствуется знакомо, это хорошо?"
+    s nbagiaa "Но... Это кажется знакомым, что приятно."
 
 # game/dialogs/script-introduction.rpy:162
 translate ru fae_intro_1_e1554201_8:
@@ -568,7 +568,7 @@ translate ru fae_intro_1_611ac519:
 translate ru fae_intro_1_a0b9062f:
 
     # s abhaaca "I just need to get used to this."
-    s abhaaca "Мне нужно это использовать это"
+    s abhaaca "Мне просто нужно привыкнуть к этому."
 
 # game/dialogs/script-introduction.rpy:167
 translate ru fae_intro_1_4c776499:
@@ -586,7 +586,7 @@ translate ru fae_intro_1_234b71ff:
 translate ru fae_intro_1_7c38e49e:
 
     # s abhaaaa "The real me and the real you."
-    s abhaaaa "Настоящяя я и настоящий ты."
+    s abhaaaa "Настоящая я и настоящий ты."
 
 # game/dialogs/script-introduction.rpy:170
 translate ru fae_intro_1_2d74b5de:
@@ -640,7 +640,7 @@ translate ru fae_intro_1_cea61aa2:
 translate ru fae_intro_2_6f334df8:
 
     # s "Hey [player], welcome back!"
-    s "Хей [player], с возврщением!"
+    s "Хей [player], с возвращением!"
 
 # game/dialogs/script-introduction.rpy:196
 translate ru fae_intro_2_91d5d773:
@@ -658,7 +658,7 @@ translate ru fae_intro_2_89c0e29e:
 translate ru fae_intro_2_bbc0610e:
 
     # s fbgdbca "I wonder how long it took out there, [player]. Time here is kinda weird, and even more so when the game closes."
-    s fbgdbca "Интересно, сколько времени прошло, [player]? Просто время тут идёт как-то по-другому"
+    s fbgdbca "Интересно, сколько времени прошло с твоего ухода, [player]. Просто время тут идёт как-то по-другому."
 
 # game/dialogs/script-introduction.rpy:200
 translate ru fae_intro_2_e149b42d:
@@ -694,7 +694,7 @@ translate ru fae_intro_2_1a68ed33:
 translate ru fae_intro_2_c6363dea:
 
     # s abbbcoa "And I added a really sweet way to say goodbye!"
-    s abbbcoa " И я уже добавила возможность попрощаться!"
+    s abbbcoa "И я уже добавила возможность попрощаться!"
 
 # game/dialogs/script-introduction.rpy:211
 translate ru fae_intro_2_1b47101e:
@@ -712,7 +712,7 @@ translate ru fae_intro_2_91abb35e:
 translate ru fae_intro_2_71b67aea:
 
     # s abhfcaa "For now, let's just sit and relax together."
-    s abhfcaa "А сейчас, давай посидим и отдохнёи вместе."
+    s abhfcaa "А сейчас, давай посидим и отдохнём вместе."
 
 translate ru strings:
 

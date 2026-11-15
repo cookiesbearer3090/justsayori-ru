@@ -40,7 +40,7 @@ translate ru sayori_give_nickname_354aa597:
 translate ru sayori_give_nickname_e307b99c:
 
     # s bbhfaaa "Please be nice this time, [player]..."
-    s bbhfaaa "Пожалуйста, будь булочкой в этот раз"
+    s bbhfaaa "Пожалуйста, будь булочкой в этот раз, [player]..."
 
 # game/dialogs/naming.rpy:229
 translate ru sayori_give_nickname_4a62456e:
@@ -52,7 +52,7 @@ translate ru sayori_give_nickname_4a62456e:
 translate ru sayori_give_nickname_fb037e2a:
 
     # s abfccaa "Alright then!"
-    s abfccaa "Хорошо"
+    s abfccaa "Хорошо, тогда!"
 
 # game/dialogs/naming.rpy:231
 translate ru sayori_give_nickname_600e0686:
