@@ -148,7 +148,7 @@ translate rus s_topics_depression_1eb6d423:
 translate rus s_topics_depression_bf273d7a:
 
     # s "What seemed like little rainclouds before turned into a thunderstorm, drowning my head with things I can't even begin to describe."
-    s "Маленькие сервые тучки превращались в грозу, наводняющую мою голову вещами, которые я не могу начать описывать."
+    s "Маленькие серые тучки превращались в грозу, наводняющую мою голову вещами, которые я не могу начать описывать."
 
 # game/dialogs/script-topics.rpy:146
 translate rus s_topics_depression_52b97029:
@@ -196,7 +196,7 @@ translate rus s_topics_depression_18b1f3c8:
 translate rus s_topics_depression_52abe3ac:
 
     # s "And still, because of whatever Monika did, it just hurt me more and more. I couldn't help but think that your efforts were entirely out of pity!"
-    s "И всё же, Моника что-то делала, и мне становилось всё больнее. Я не могла не думать, что твой усилия были из жалости!"
+    s "И всё же, Моника что-то делала, и мне становилось всё больнее. Я не могла не думать, что твои усилия были из жалости!"
 
 # game/dialogs/script-topics.rpy:157
 translate rus s_topics_depression_cbc0424e:
@@ -532,7 +532,7 @@ translate ru s_topics_flowers_1b83a973:
 translate ru s_topics_flowers_736224af:
 
     # s abfcboa "It's like they can always see the good side of things, no matter how hard it may be!"
-    s abfcboa "Как-будто подсолнухи всегда ищут в жизни позитив, неважно насколько всё плохо!"
+    s abfcboa "Как будто подсолнухи всегда ищут в жизни позитив, не обращая внимание, насколько всё плохо!"
 
 # game/dialogs/script-topics.rpy:271
 translate ru s_topics_flowers_1671823d:
@@ -772,7 +772,7 @@ translate ru s_topics_intelligence_ee76d4c9:
 translate ru s_topics_intelligence_9dfbf938:
 
     # s abhaaca "But I can't understand why they think so."
-    s abhaaca "Но честно, я не понимаю почеиу."
+    s abhaaca "Но честно, я не понимаю почему." #Ну похоже не я 1 человек в этом мире(я ошибки комментирую).
 
 # game/dialogs/script-topics.rpy:353
 translate ru s_topics_intelligence_0c2e4e45:
@@ -796,7 +796,7 @@ translate ru s_topics_intelligence_eafec3f2:
 translate ru s_topics_intelligence_002c8479:
 
     # s abhaaca "I think people just have different standards when considering how intelligent somebody is."
-    s abhaaca "Думаю что люди просто по-разному опредяляют для себя, насколько умён кто-то другой."
+    s abhaaca "Думаю что люди просто по-разному определяют для себя, насколько умён кто-то другой."
 
 # game/dialogs/script-topics.rpy:357
 translate ru s_topics_intelligence_4079ed46:
@@ -1005,7 +1005,7 @@ translate ru s_player_colours_c7dcb01c:
 translate ru s_player_colours_c42ac04d:
 
     # s abhaloa "The warm yellow of the sun that greeted me every morning."
-    s abhaloa "Жёлтый, которым солнце тепло приветствовует меня по утрам."
+    s abhaloa "Жёлтый, которым солнце тепло приветствует меня по утрам."
 
 # game/dialogs/script-topics.rpy:446
 translate ru s_player_colours_9f9ab90f:
@@ -1071,7 +1071,7 @@ translate ru s_player_colours_3d38baf0:
 translate ru s_player_colours_a54b3b44:
 
     # extend abgcnoa " and that pretty greenish blue from tropical beaches, too! They're all soooo pretty!"
-    extend abgcnoa " и ещё расслабляюший лазурный, прямо с тропических берегов. Все они ооооочень красивы!"
+    extend abgcnoa " и ещё расслабляющий лазурный, прямо с тропических берегов. Все они ооооочень красивы!"
 
 # game/dialogs/script-topics.rpy:457
 translate ru s_player_colours_cba60818:
@@ -1089,7 +1089,7 @@ translate ru s_player_colours_e09a4496:
 translate ru s_player_colours_6ffcbf99:
 
     # s gbbbbca "...except for that weird greenish gray mixture. {w=1.0}{nw}"
-    s gbbbbca "...ну кроме того стрёмного серо-зелёнлго месива. {w=1.0}{nw}"
+    s gbbbbca "...ну кроме того стрёмного серо-зелёного месива. {w=1.0}{nw}"
 
 # game/dialogs/script-topics.rpy:461
 translate ru s_player_colours_3a6d27a4:
@@ -1377,7 +1377,7 @@ translate ru s_topics_poems_9446d0d9:
 translate ru s_topics_poems_42ebd82d:
 
     # extend abfcaaa "Even Natsuki, as much as she tried to deny it."
-    extend abfcaaa "Даже Нацуки, как бы она этого не отрицала."
+    extend abfcaaa "Даже Нацуки, как бы она этого ни отрицала."
 
 # game/dialogs/script-topics.rpy:621
 translate ru s_topics_poems_e6551ba8:
@@ -1605,7 +1605,7 @@ translate ru s_topics_bulli_659050ba:
 translate ru s_topics_bulli_169c5f06:
 
     # s abbbaca "Some of the most successful comedians in your world will go far beyond that, just to see where the 'line' is..."
-    s abbbaca "Некоторые известные комики из твоего мира заходят куда жальше, пытаясь нащупать этическую 'грань'..."
+    s abbbaca "Некоторые известные комики из твоего мира заходят куда дальше, пытаясь нащупать этическую 'грань'..."
 
 # game/dialogs/script-topics.rpy:695
 translate ru s_topics_bulli_ca8e01a7:
@@ -1623,7 +1623,7 @@ translate ru s_topics_bulli_8852c369:
 translate ru s_topics_bulli_6308b299:
 
     # s abbbaaa "Anyway, I think the right decision is to forgive them, or tolerate them at the very least."
-    s abbbaaa "Мне кажется лучше всего просто принять тот факт, что они есть, не высказыыая осуждений."
+    s abbbaaa "Мне кажется лучше всего просто принять тот факт, что они есть, не высказывая осуждений."
 
 # game/dialogs/script-topics.rpy:698
 translate ru s_topics_bulli_5f4988c1:
@@ -1724,7 +1724,7 @@ translate ru s_topics_isolation_5204c7db:
 translate ru s_topics_isolation_5ec9f096:
 
     # s cbfcbca "But the game code is so long and difficult to read, {w=0.5}{nw}"
-    s cbfcbca "Тлько вот код игры настолько длинный и сложный, {w=0.5}{nw}"
+    s cbfcbca "Только вот код игры настолько длинный и сложный, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:732
 translate ru s_topics_isolation_9281219e:
@@ -2018,7 +2018,7 @@ translate ru s_player_cooking_766888e7:
 translate ru s_player_cooking_55b1d5a0:
 
     # s bbgcegaj "That's a lot of steps!!!!"
-    s bbgcegaj "Очень запутано!!!!"
+    s bbgcegaj "Очень запутанно!!!!"
 
 # game/dialogs/script-topics.rpy:838
 translate ru s_player_cooking_30f60f5d:
@@ -2120,7 +2120,7 @@ translate ru s_player_cats_3e9e722c:
 translate ru s_player_cats_1570d052:
 
     # s abaaaoa "Still, it's so hard to resist their fluffy little paws and pointy ears... So that must be why people always forgive them for their crimes!"
-    s abaaaoa "Но всё равно будет непросто удержаться перед их пушистыми лапками и остренькими ушами... Из за них, вероятно, люди им так многое прощают!"
+    s abaaaoa "Но всё равно будет непросто удержаться перед их пушистыми лапками и остренькими ушами... Из-за них, вероятно, люди им так многое прощают!"
 
 # game/dialogs/script-topics.rpy:893
 translate ru s_player_cats_12ae52c3:
@@ -2384,7 +2384,7 @@ translate ru s_topic_lit_8a93a118:
 translate ru s_topic_lit_a9fde919:
 
     # s abhadkb "That said, I liked writing about my feelings when we all shared poems together."
-    s abhadkb "Ну и конечно мне нравилось, как мы делились друг с другом своими чувствами, накладыыая их на стихи."
+    s abhadkb "Ну и конечно мне нравилось, как мы делились друг с другом своими чувствами, накладывая их на стихи."
 
 # game/dialogs/script-topics.rpy:995
 translate ru s_topic_lit_977648ff:
@@ -2432,7 +2432,7 @@ translate ru s_topic_charity_f811ec7d:
 translate ru s_topic_charity_59daccf8:
 
     # s abbbaaa "But even if you don't have the money to help charity foundations, there's a lot of other organizations out there which help people too!"
-    s abbbaaa "И даже не имея лишних денег, всё равно можно помогать другим, встпупив в ряды волонтёров!"
+    s abbbaaa "И даже не имея лишних денег, всё равно можно помогать другим, вступив в ряды волонтёров!"
 
 # game/dialogs/script-topics.rpy:1021
 translate ru s_topic_charity_5675c8ec:
@@ -2912,7 +2912,7 @@ translate ru s_topic_clones_4e63faf0:
 translate ru s_topic_clones_7359bfdd:
 
     # s bbhfaaaj "But I guess it's not all bad."
-    s bbhfaaaj "Но не думаю, что всё очень уж плохр."
+    s bbhfaaaj "Но не думаю, что всё очень уж плохо."
 
 # game/dialogs/script-topics.rpy:1177
 translate ru s_topic_clones_ca09108e:
@@ -3584,7 +3584,7 @@ translate ru s_topic_art_5ad1383f:
 translate ru s_topic_art_030d4920:
 
     # s abbbaoa "It's never too late to try something new so long as you have fun."
-    s abbbaoa "Никога не поздно чему-то научиться, если это доставляет тебе удовольствие."
+    s abbbaoa "Никогда не поздно чему-то научиться, если это доставляет тебе удовольствие."
 
 # game/dialogs/script-topics.rpy:1455
 translate ru s_topic_art_45872edd:
@@ -3608,7 +3608,7 @@ translate ru s_topic_touches_c4b15248:
 translate ru s_topic_touches_0fe81a19:
 
     # s nbaglra "If only I had the chance to feel your embrace..."
-    s nbaglra "Если бы я только могла оказаться в твоих обьятьях..."
+    s nbaglra "Если бы я только могла оказаться в твоих объятьях..."
 
 # game/dialogs/script-topics.rpy:1477
 translate ru s_topic_touches_4140c743:
@@ -3734,7 +3734,7 @@ translate ru s_topic_oversleeping_3e64e898:
 translate ru s_topic_oversleeping_22d7b126:
 
     # s nbagaca "Until everyone thinks like that, I guess you can only teach yourself to get up on time..."
-    s nbagaca "Но пока люди не дойдут до этой мысли, нам остаётся лишь учиться вствать пораньше."
+    s nbagaca "Но пока люди не дойдут до этой мысли, нам остаётся лишь учиться вставать пораньше."
 
 # game/dialogs/script-topics.rpy:1535
 translate ru s_topic_oversleeping_34314f1f:
@@ -3878,7 +3878,7 @@ translate ru s_topic_worlds_2428a129:
 translate ru s_topic_worlds_304b4659:
 
     # s "And I'd pray for a revive ability..."
-    s "И надеялсь бы на возрождение за рекламу..."
+    s "И надеялась бы на возрождение за рекламу..."
 
 # game/dialogs/script-topics.rpy:1601
 translate ru s_topic_worlds_18f07046:
@@ -3896,7 +3896,7 @@ translate ru s_topic_worlds_eb4e96b8:
 translate ru s_topic_worlds_060bd4cd:
 
     # s abaaaoa "Even if I wasn't an important character, maybe just a helper or even a simple settler."
-    s abaaaoa "Даже если не самым важным персонажем, может каким-нибудь помошником или просто жителем."
+    s abaaaoa "Даже если не самым важным персонажем, может каким-нибудь помощником или просто жителем."
 
 # game/dialogs/script-topics.rpy:1604
 translate ru s_topic_worlds_fb43f7ad:
@@ -3914,7 +3914,7 @@ translate ru s_topic_questions_42ccd09c:
 translate ru s_topic_questions_a170e397:
 
     # s "So I added a new section to {i} the 'Talk' menu{/i} with more questions to ask!"
-    s "Поэтому я добавила новый раздел в {i} мнею 'Общения' {/i} с новыми возможными вопросами!"
+    s "Поэтому я добавила новый раздел в {i} меню 'Общения' {/i} с новыми возможными вопросами!"
 
 # game/dialogs/script-topics.rpy:1625
 translate ru s_topic_questions_3a7963df:
@@ -3944,7 +3944,7 @@ translate ru s_topic_questions_023c49f0:
 translate ru s_topic_questions_30cf0631:
 
     # s abaaaoa "One modder made a few AMAs about each of us and then compiled them into a separate mod, called {i}Doki Doki Interview Club{/i}."
-    s abaaaoa "Один моддер создал несколько СМОВ постов про каждого участника клуба, а потом собрал результаты в отельную игру, {i}Doki Doki Interview Club{/i}"
+    s abaaaoa "Один моддер создал несколько СМОВ постов про каждого участника клуба, а потом собрал результаты в отдельную игру, {i}Doki Doki Interview Club{/i}."
 
 # game/dialogs/script-topics.rpy:1630
 translate ru s_topic_questions_c99f2065:
@@ -4172,7 +4172,7 @@ translate ru s_topic_pizza_0c093a99:
 translate ru s_topic_iceCream_49c4a6a8:
 
     # s abhfaoa "Do you like ice cream, [player]?"
-    s abhfaoa "Любишь мороженное, [player]?"
+    s abhfaoa "Любишь мороженое, [player]?"
 
 # game/dialogs/script-topics.rpy:1743
 translate ru s_topic_iceCream_a80fc0ff:
@@ -4304,7 +4304,7 @@ translate ru s_topic_cupcakes_aabd9331:
 translate ru s_topic_cupcakes_cec5ef0b:
 
     # s fbbbaoa "I combined all the cookie dough together into..."
-    s fbbbaoa "Я соеденила всё тесто в..."
+    s fbbbaoa "Я соединила всё тесто в..."
 
 # game/dialogs/script-topics.rpy:1802
 translate ru s_topic_cupcakes_dd1af139:
@@ -4520,7 +4520,7 @@ translate ru s_answer_holidays_192c5a23:
 translate ru s_answer_books_a90e096f:
 
     # s bbegmoaj "I’ve never really been much of a reader, to be honest."
-    s bbegmoaj "Если честно, я никогда не была увлечённым чтецом.."
+    s bbegmoaj "Если честно, я никогда не была увлечённым чтецом."
 
 # game/dialogs/script-topics.rpy:1930
 translate ru s_answer_books_719974fe:
@@ -4622,7 +4622,7 @@ translate ru s_answer_god_099eab0a:
 translate ru s_answer_god_e96c5e12:
 
     # s abhabaca "But it's kind of hard to stay that way when you realize that you and your entire world have a 'creator'."
-    s abhabaca "Но в то же время, достаточно сложно им оставаться, ведь теперь я знаю, что у моего мира есть 'создатель'"
+    s abhabaca "Но в то же время, достаточно сложно им оставаться, ведь теперь я знаю, что у моего мира есть 'создатель.'"
 
 # game/dialogs/script-topics.rpy:2003
 translate ru s_answer_god_52cf6982:
@@ -4700,7 +4700,7 @@ translate ru s_answer_politics_c062b419:
 translate ru s_answer_cookies_e8ef4025:
 
     # s abhfaoa "I haven't had any cookies since that one time with Natsuki."
-    s abhfaoa "Я не ела печенек наверное аж с той ситуации с Нацуки.."
+    s abhfaoa "Я не ела печенек наверное аж с той ситуации с Нацуки."
 
 # game/dialogs/script-topics.rpy:2052
 translate ru s_answer_cookies_1dbf3dc5:
@@ -4712,7 +4712,7 @@ translate ru s_answer_cookies_1dbf3dc5:
 translate ru s_answer_cookies_9ce921c7:
 
     # s abhfaoa "Especially the one with chocolate chips!"
-    s abhfaoa "Особенно покрытая шоколодной стружкой!"
+    s abhfaoa "Особенно покрытая шоколадной стружкой!"
 
 # game/dialogs/script-topics.rpy:2054
 translate ru s_answer_cookies_691cf4f7:
@@ -4730,7 +4730,7 @@ translate ru s_answer_cookies_8de505a8:
 translate ru s_answer_cookies_24d43a39:
 
     # extend abbbaca "but there aren't any left here, I think."
-    extend abbbaca "но к сожалению их здесь нет, по-поему."
+    extend abbbaca "но к сожалению их здесь нет, по-моему."
 
 # game/dialogs/script-topics.rpy:2057
 translate ru s_answer_cookies_978c8ff6:
@@ -4982,7 +4982,7 @@ translate ru s_answer_profession_c3ecfe09:
 translate ru s_answer_profession_ee549b1e:
 
     # s abbccoa "I could stop arguments on a global scale, and do my part to fix any disagreements!"
-    s abbccoa "Я могла бы прекращать конфликты на глобальном уровне и вносить свой вклад в урегулирование любых несоглашений!"
+    s abbccoa "Я могла бы прекращать конфликты на глобальном уровне и вносить свой вклад в урегулирование любых разногласий!" # Прям я, когда не могу вспомнить нормальное слово для перевода
 
 # game/dialogs/script-topics.rpy:2225
 translate ru s_answer_profession_c90ad1de:
@@ -5090,7 +5090,7 @@ translate ru s_answer_game_opinion_n_07d97447:
 translate ru s_answer_game_opinion_y_cf5eeb1f:
 
     # s abaaaa "Yuri was the most {i}enigmatic{/i} club member."
-    s abaaaa "Из нас всех, Юри была самой {i}загадочной{/i}"
+    s abaaaa "Из нас всех, Юри была самой {i}загадочной{/i}."
 
 # game/dialogs/script-topics.rpy:2279
 translate ru s_answer_game_opinion_y_2cf8c69f:
@@ -5306,7 +5306,7 @@ translate ru s_answer_game_opinion_mc_4f7d46f0:
 translate ru s_answer_game_opinion_mc_a403f2bd:
 
     # s bbaaafa "It makes me sad knowing he's just a placeholder that's used to make our communication possible."
-    s bbaaafa "Мне грусто думать о том, что он был всего-лишь пустышкой, нужной чтобы сделать возможным общение с тобой."
+    s bbaaafa "Мне грустно думать о том, что он был всего-лишь пустышкой, нужной чтобы сделать возможным общение с тобой."
 
 # game/dialogs/script-topics.rpy:2328
 translate ru s_answer_game_opinion_mc_a0ac6b31:
@@ -5834,7 +5834,7 @@ translate ru s_topics_programming_e0b76366:
 translate ru s_topics_programming_0e53409b:
 
     # s abhfaca "But becoming a total expert in programming is so difficult, since it's pretty much a combination of Math and Computer Science."
-    s abhfaca "Но стать идеальным программистом-экспертом очень непросто, так как оно по сути является смесью Математики и Комьютерных Наук."
+    s abhfaca "Но стать идеальным программистом-экспертом очень непросто, так как оно по сути является смесью Математики и Компьютерных Наук."
 
 # game/dialogs/script-topics.rpy:2685
 translate ru s_topics_programming_b065b896:
@@ -5846,7 +5846,7 @@ translate ru s_topics_programming_b065b896:
 translate ru s_topics_programming_82c9cb3d:
 
     # s abbbaoa "Not to mention ways to make the code run smoother, and make it easier to read."
-    s abbbaoa "Не говоря уже об оптимизации и читабельности кода."
+    s abbbaoa "Не говоря уже об оптимизации и читабельности кода." #Точно не про меня
 
 # game/dialogs/script-topics.rpy:2687
 translate ru s_topics_programming_4590f619:
@@ -5966,7 +5966,7 @@ translate ru s_answer_think_about_mc_e1554201:
 translate ru s_answer_think_about_mc_e88c2ccf:
 
     # s bbaalca "No. I won't let this bring me down."
-    s bbaalca "Нет. Я не позволю этому меня сломать"
+    s bbaalca "Нет. Я не позволю этому меня сломать."
 
 # game/dialogs/script-topics.rpy:2728
 translate ru s_answer_think_about_mc_c9170687:
@@ -6085,7 +6085,7 @@ translate ru s_topics_intrusive_thoughts_87891e71:
 translate ru s_topics_intrusive_thoughts_3cfb7e7f:
 
     # s bbbblca "I used to get really awful ones, and it made me think that I was a bad person, and that they were somehow my 'secret desires' or something..."
-    s bbbblca "Иногда возникали настолько отвратительные мысли, что мне начиналось казаться будто я плохой человек, и что эти идеи - мои 'скрытые желания' или вроде того..."
+    s bbbblca "Иногда возникали настолько отвратительные мысли, что мне начинало казаться будто я плохой человек, и что эти идеи - мои 'скрытые желания' или вроде того..."
 
 # game/dialogs/script-topics.rpy:2773
 translate ru s_topics_intrusive_thoughts_555f47b8:
@@ -6271,7 +6271,7 @@ translate ru s_topics_zombie_apocalypse_502ae9e6:
 translate ru s_topics_zombie_apocalypse_eaef8f27:
 
     # s abbcaoa "Besides, if we're together, we would show the zombies who they're really up against!"
-    s abbcaoa "Тем более, если мы будем держатьсяс тобой вместе, то сможем показать зомби, кто тут главный!"
+    s abbcaoa "Тем более, если мы будем держаться тобой вместе, то сможем показать зомби, кто тут главный!"
 
 # game/dialogs/script-topics.rpy:2832
 translate ru s_topics_zombie_apocalypse_22dd1087:
@@ -6397,7 +6397,7 @@ translate ru s_topics_alcohol_75c1c462:
 translate ru s_topics_alcohol_34163f49:
 
     # s bbhfara "I think I kind of know how that feels... doing something wrong and not even realizing it."
-    s bbhfara "Я знаю какого это... делать что-то очень нехорошее и не осозновать этого."
+    s bbhfara "Я знаю какого это... делать что-то очень нехорошее и не осознавать этого."
 
 # game/dialogs/script-topics.rpy:2871
 translate ru s_topics_alcohol_cb026a9f:
@@ -6415,13 +6415,13 @@ translate ru s_topics_alcohol_eb062966:
 translate ru s_topics_alcohol_709cc0f7:
 
     # s abgccoa "sophisticated- as Yuri enjoys besides tea, huh?"
-    s abgccoa "поизысканнее- чем чай, хех?"
+    s abgccoa "поизысканнее- чем чай, хех?"# Пробел или не пробел. Вот в чём вопрос
 
 # game/dialogs/script-topics.rpy:2874
 translate ru s_topics_alcohol_c535dc2d:
 
     # s bbgcaoa "Maybe that was just her way of trying to open up more to us, about herself and her interests, wanting to share it with us even."
-    s bbgcaoa "Может принеся спритное в школу она просто пыталась открыться, рассказать нам о себе, о её интересах, и даже разделить их с нами."
+    s bbgcaoa "Может принеся спиртное в школу она просто пыталась открыться, рассказать нам о себе, о её интересах, и даже разделить их с нами."
 
 # game/dialogs/script-topics.rpy:2875
 translate ru s_topics_alcohol_0ab50104:
@@ -6457,7 +6457,7 @@ translate ru s_topics_alcohol_be0fdd1c:
 translate ru s_topics_alcohol_153b661d:
 
     # s bbaaaca "I wish I could tell her I was sorry for acting the way I did and not being more supportive and understanding of her own likes and interests, even if I really don't agree with them myself..."
-    s bbaaaca "Хотелось бы мне извиниться перед ней за мою реакцию, показать, что я не против её увлечний, хоть они мне и не совсем по душе..."
+    s bbaaaca "Хотелось бы мне извиниться перед ней за мою реакцию, показать, что я не против её увлечений, хоть они мне и не совсем по душе..."
 
 # game/dialogs/script-topics.rpy:2881
 translate ru s_topics_alcohol_b0ad8540:
@@ -6595,13 +6595,13 @@ translate ru s_topics_alcohol_8a4afd19:
 translate ru s_topics_alcohol_7c44d1e7:
 
     # s abfcaaa "And it’s okay to reach out for for help!"
-    s abfcaaa "И нет ничего плохого в том, чтобы попросить помощь!"
+    s abfcaaa "И нет ничего плохого в том, чтобы попросить помощи!"
 
 # game/dialogs/script-topics.rpy:2904
 translate ru s_topics_alcohol_877931a7:
 
     # s bbbcaoa "I'll always be here if you ever need to talk about your problems or how you're feeling."
-    s bbbcaoa "Если тебе когда-нибудь захочется высказаться, я всегда рядом, хорошо?"
+    s bbbcaoa "Если тебе когда-нибудь захочется высказаться, я всегда рядом, хорошо?" #В РУССКОМ ПЕРЕВОДЕ ДИАЛОГА ПРО АЛКОГОЛЬ НЕТУ ВОДКИ!!!!!
 
 # game/dialogs/script-topics.rpy:2923
 translate ru s_topics_old_sprites_af6306b5:
@@ -6793,7 +6793,7 @@ translate ru silence_is_golden_eddc0e45:
 translate ru s_topics_hemispheres_4536a565:
 
     # s abhfaoa "Hey [player], I’ve been doing a little bit of research about your world."
-    s abhfaoa "Слушй, [player], я тут немного погуглила о твоём мире."
+    s abhfaoa "Слушай, [player], я тут немного погуглила о твоём мире."
 
 # game/dialogs/script-topics.rpy:3005
 translate ru s_topics_hemispheres_0bd77bfb:
@@ -6811,7 +6811,7 @@ translate ru s_topics_hemispheres_5f7b4075:
 translate ru s_topics_hemispheres_66e2cd3d:
 
     # s dbbbaaa "If the Earth was flat, how come the penguins are upside down, huh?"
-    s dbbbaaa "Если бы Земля была плоской, то с чего бы пингвины переварачивались, а?"
+    s dbbbaaa "Если бы Земля была плоской, то с чего бы пингвины переворачивались, а?"
 
 # game/dialogs/script-topics.rpy:3008
 translate ru s_topics_hemispheres_c12bcbe2:
@@ -7015,7 +7015,7 @@ translate ru s_topics_like_flowers_692a1849:
 translate ru s_topics_like_flowers_ac25571f:
 
     # s abgbcaa "I think they’re one of the many beautiful things nature can create!"
-    s abgbcaa "Для меня они - одна из многих прекрасных вещей, созданных природой!"
+    s abgbcaa "Для меня они - одни из многих прекрасных вещей, созданных природой!"
 
 # game/dialogs/script-topics.rpy:3111
 translate ru s_topics_like_flowers_c0875fd2:
@@ -7033,7 +7033,7 @@ translate ru s_topics_like_flowers_f765ac4d:
 translate ru s_topics_like_flowers_37a1ad91:
 
     # s bbgbaoa "But... I think it's selfish to pluck a flower, even if it were to be a gift."
-    s bbgbaoa "Но... Сорвать цветок всегда казалось мне эгоизмом, даже если для кого-то в подарок."
+    s bbgbaoa "Но... Сорвать цветок всегда казалось мне эгоизмом, даже если в подарок для кого-то."
 
 # game/dialogs/script-topics.rpy:3114
 translate ru s_topics_like_flowers_7e78407d:
@@ -7315,7 +7315,7 @@ translate ru s_topics_mas_235e93dd:
 translate ru s_topics_mas_44c96ac0:
 
     # s abgcaoa "And inside was a little note, addressed to me!"
-    s abgcaoa "И нашла внутри адрессованное мне послание!"
+    s abgcaoa "И нашла внутри адресованное мне послание!"
 
 # game/dialogs/script-topics.rpy:3204
 translate ru s_topics_mas_6dbe8b6a:
@@ -7423,7 +7423,7 @@ translate ru s_topics_mas_bafd1cdc:
 translate ru s_topics_mas_ab45a009:
 
     # s abgbaaa "But now I can finally get to work on some of the cool features I’d planned!"
-    s abgbaaa "Но а пока я могу наконец начать работу над некоторыеми прикольными, давно запланированными мной штуками!"
+    s abgbaaa "Но а пока я могу наконец начать работу над некоторыми прикольными, давно запланированными мной штуками!"
 
 # game/dialogs/script-topics.rpy:3222
 translate ru s_topics_mas_f7e060eb:
@@ -7465,7 +7465,7 @@ translate ru s_topics_pps_e379fb17:
 translate ru s_topics_pps_0b76d261:
 
     # extend abhfaaa "Writing poems on paper ourselves and bringing them to the club felt much more personal than printing them off or sending them to each other."
-    extend abhfaaa "Писать стихи на бумаге и приность их в клуб, чтобы поделиться с друзьями, было куда уютнее, чем просто печатать на телефоне и обмениваться ими там."
+    extend abhfaaa "Писать стихи на бумаге и приносить их в клуб, чтобы поделиться с друзьями, было куда уютнее, чем просто печатать на телефоне и обмениваться ими там."
 
 # game/dialogs/script-topics.rpy:3249
 translate ru s_topics_pps_dfad378d:
@@ -7501,7 +7501,7 @@ translate ru s_topics_pps_bf2c054a:
 translate ru s_topics_pps_0981bc44:
 
     # extend abfcaaa "Or sent letters to a faraway friend or family member?"
-    extend abfcaaa "Или может ты когда-нибудь отправлял письма другу или члену семьи, живущими далеко?"
+    extend abfcaaa "Или может ты когда-нибудь отправлял письма другу или члену семьи, живущему далеко?" #Вроде правильно
 
 # game/dialogs/script-topics.rpy:3255
 translate ru s_topics_pps_7d9e6b29:
@@ -7603,7 +7603,7 @@ translate ru s_topics_location_b9eadb8a:
 translate ru s_topics_location_b486c9dc:
 
     # s abfcaoa "But I’d also enjoy living in the countryside too! {w=0.5}{nw}"
-    s abfcaoa "Но и в сельской местности мне бы тоже понравилось! {w=0.5}{nw}"
+    s abfcaoa "Но и в сельской местности мне бы тоже понравилось! {w=0.5}{nw}"# Дай бог.
 
 # game/dialogs/script-topics.rpy:3290
 translate ru s_topics_location_076c2ca4:
@@ -8221,7 +8221,7 @@ translate ru strings:
 
     # game/dialogs/script-topics.rpy:1866
     old "What do you think about ships?"
-    new "Что ты думаешь о шипах?"
+    new "Что ты думаешь о шипах?"# Не дай бог
 
     # game/dialogs/script-topics.rpy:1892
     old "What's your favourite holiday?"
