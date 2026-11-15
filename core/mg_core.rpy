@@ -28,7 +28,7 @@ translate ru strings:
 
     # game/core/mg_core.rpy:271
     old "Sayoristein 3D"
-    new "Врата Сайори 3д"
+    new "Сайориштейн 3д"
 
     # game/core/mg_core.rpy:271
     old "Now in 3D!"

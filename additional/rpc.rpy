@@ -4,7 +4,7 @@ translate ru strings:
 
     # game/additional/rpc.rpy:50
     old "Spending Time With Sayori"
-    new "Время препровождения с Сайори"
+    new "Времяпрепровождения с Сайори"
 
     # game/additional/rpc.rpy:50
     old "Just Sayori"

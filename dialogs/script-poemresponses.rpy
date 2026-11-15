@@ -148,7 +148,7 @@ translate ru s_poem_bottles_214750c9:
 translate ru s_poem_bottles_4580a7ad:
 
     # s bahdiia "So, I hope you liked it. {w=0.5}{nw}"
-    s bahdiia "Ну, надеюсь тебе понравилось. w=0.5}{nw}"
+    s bahdiia "Ну, надеюсь тебе понравилось. {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:39
 translate ru s_poem_bottles_3a6fe025:

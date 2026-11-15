@@ -82,7 +82,7 @@ translate ru sayori_give_nickname_08c36efe:
 translate ru sayori_give_nickname_2b39d86d:
 
     # s bbhflfag "That really hurts, [player]..."
-    s bbhflfag "Это реально ранит, [player...]"
+    s bbhflfag "Это реально ранит, [player]..."
 
 # game/dialogs/naming.rpy:259
 translate ru sayori_give_nickname_618a00a1:

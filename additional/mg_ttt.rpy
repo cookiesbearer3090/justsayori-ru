@@ -4,13 +4,13 @@
 translate ru mg_ttt_s_comment_2b37041d:
 
     # s abfcao "Okay, I win this game."
-    s abfcao "Оки, я выиграю эту игру!"
+    s abfcao "Оки, я выиграла эту игру!"
 
 # game/additional/mg_ttt.rpy:248
 translate ru mg_ttt_s_comment_4e02270b:
 
     # s "You should have a better strategy next time."
-    s "Тебе следует поменять стратегию"
+    s "Тебе следует поменять стратегию в следующий раз"
 
 # game/additional/mg_ttt.rpy:250
 translate ru mg_ttt_s_comment_8062643d:
@@ -34,7 +34,7 @@ translate ru mg_ttt_s_comment_3ec4fa89:
 translate ru mg_ttt_s_comment_29120090:
 
     # s "Maybe you'll win next time."
-    s "Ты ещё сможешь победишь."
+    s "Ты ещё сможешь победить."
 
 # game/additional/mg_ttt.rpy:258
 translate ru mg_ttt_s_comment_aa09fab3:
@@ -64,19 +64,19 @@ translate ru mg_ttt_s_comment_086930ef:
 translate ru mg_ttt_s_comment_765cde86:
 
     # s abfcaa "Next time I'll try harder."
-    s abfcaa "В следующий раз я приложу больше усилии!"
+    s abfcaa "В следующий раз я приложу больше усилий!"
 
 # game/additional/mg_ttt.rpy:267
 translate ru mg_ttt_s_comment_6fe89b59:
 
     # s abhhah "Oh, the board is full."
-    s abhhah "Ох, доска закончилась."
+    s abhhah "Ох, на доске кончилось место."
 
 # game/additional/mg_ttt.rpy:268
 translate ru mg_ttt_s_comment_ece20f36:
 
     # s "And no one got three in a row."
-    s "Ни у кого 3 в ряд"
+    s " и ни у кого нету 3 в ряд"
 
 # game/additional/mg_ttt.rpy:269
 translate ru mg_ttt_s_comment_ecb6e269:
@@ -100,7 +100,7 @@ translate ru mg_ttt_s_comment_74ea3341:
 translate ru mg_ttt_s_comment_5f2a5e9f:
 
     # s abhhas "Maybe there will be a winner in the next game."
-    s abhhas "Может быть победитель будет в следующей игре."
+    s abhhas "Может быть, победитель будет в следующей игре."
 
 # game/additional/mg_ttt.rpy:277
 translate ru mg_ttt_s_comment_d417c01a:

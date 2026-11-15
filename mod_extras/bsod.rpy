@@ -43,11 +43,11 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:95
     old "Your PC ran into a problem and needs to restart."
-    new "На вашем пк возникла ошибка, и он нуждается в перезагрузке."
+    new "На вашем ПК возникла ошибка, и он нуждается в перезагрузке."
 
     # game/mod_extras/bsod.rpy:96
     old "We're just collecting some error info, and then"
-    new "Мы лишь собираем некоторые сведения об ошибке"
+    new "Мы лишь собираем некоторые сведения об ошибке, а затем"
 
     # game/mod_extras/bsod.rpy:98
     old "If you'd like to know more, you can search online later for this error: "
@@ -55,7 +55,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:131
     old "Your PC ran into a problem and needs to restart. We're"
-    new "На вашем пк возникла ошибка, и он нуждается в перезагрузке. Мы"
+    new "На вашем ПК возникла ошибка, и он нуждается в перезагрузке. Мы"
 
     # game/mod_extras/bsod.rpy:132
     old "just collecting some error info, and then we'll restart for"
@@ -67,7 +67,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:137
     old "Your device ran into a problem and needs to restart."
-    new "На вашем устройства возникла проблема, и оно нуждается в перезагрузке."
+    new "На вашем устройстве возникла проблема, и оно нуждается в перезагрузке."
 
     # game/mod_extras/bsod.rpy:138
     old "We're just collecting some error info, and then you can"
@@ -79,7 +79,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:153
     old "For more information about this issue and possible fixes, visit https://www.windows.com/stopcode"
-    new "Дополнительные сведения об этой проблеме и возможных её решения см. здесь: https://www.windows.com/stopcode"
+    new "Дополнительные сведения об этой проблеме и возможных способах её решения см. здесь: https://www.windows.com/stopcode"
 
     # game/mod_extras/bsod.rpy:154
     old "If you call a support person, give them this info:"
@@ -87,7 +87,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:155
     old "Stop code: "
-    new "Код остановки"
+    new "Код остановки: "
 
     # game/mod_extras/bsod.rpy:165
     old "For more information about this issue and possible fixes, visit"

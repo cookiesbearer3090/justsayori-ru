@@ -203,7 +203,7 @@ translate ru strings:
 
     # game/additional/mg_bnc.rpy:172
     old "mrs."
-    new "мисс"
+    new "миссис"
 
     # game/additional/mg_bnc.rpy:176
     old "Last chance, [mr] I Can't Count Up To [mg_obj.guessed_len]."

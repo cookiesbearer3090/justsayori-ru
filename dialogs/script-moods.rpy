@@ -4,7 +4,7 @@
 translate ru s_mood_angry_8ce23526:
 
     # s bbaaaca "Awh, [player]."
-    s bbaaaca "Оуу, [playre]."
+    s bbaaaca "Оуу, [player]."
 
 # game/dialogs/script-moods.rpy:64
 translate ru s_mood_angry_46e2eab1:
@@ -592,7 +592,7 @@ translate ru s_mood_sick_63541f8c:
 translate ru s_mood_sick_29582eb1:
 
     # s abhfaoa "Get well soon, [player]!"
-    s abhfaoa "Ещё увидимся, [player]!"
+    s abhfaoa "Выздоравливай, [player]!"
 
 # game/dialogs/script-moods.rpy:341
 translate ru s_mood_nervous_446622f8:

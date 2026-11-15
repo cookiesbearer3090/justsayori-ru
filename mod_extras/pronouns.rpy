@@ -16,5 +16,5 @@ translate ru strings:
 
     # game/mod_extras/pronouns.rpy:34
     old "Enter your fourth pronoun (Is/Are)"
-    new "Введи форму глагола(я сам не понял чо это) (Ты/Вы)"
+    new "Введи форму глагола (Ты/Вы)"
 

@@ -16,7 +16,7 @@ translate ru music_menu_a0b65927:
 translate rus music_menu_c75378ab:
 
     # s "If you don't remember, anything you want me to play has to be in {a=[location]}custom_bgm{/a} folder."
-    s "Если ты не помнишь, то всё во что ты хочешь со мной сыграть находится в {a=[location]}custom_bgm{/a} folder."
+    s "Если ты не помнишь, то всё, что ты хочешь, чтобы я воспроизвела находится в {a=[location]}custom_bgm{/a}."
 
 # game/additional/music.rpy:57
 translate ru music_menu_23d81314:
@@ -28,7 +28,7 @@ translate ru music_menu_23d81314:
 translate ru music_menu_e4cbf22c:
 
     # s "The sound is off, silly."
-    s "Мызука выключена, дурашка"
+    s "Музыка выключена, дурашка"
 
 # game/additional/music.rpy:61
 translate ru music_menu_a3774311:

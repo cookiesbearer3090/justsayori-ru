@@ -124,7 +124,7 @@ translate rus s_topics_depression_97df2c16:
 translate rus s_topics_depression_1bbafe27:
 
     # s bbhamcag "The moment Monika started to mess with my code. {nw}"
-    s bbhamcag "Моника не вмешалась в мой код. {nw}"
+    s bbhamcag "Моника вмешалась в мой код. {nw}"
 
 # game/dialogs/script-topics.rpy:142
 translate rus s_topics_depression_eeb202e3:

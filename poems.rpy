@@ -1,6 +1,7 @@
 #not completed yet!
 # I WILL TRANSLATE, BUT IT ISN'T MY FILE. my 183-197 and 39-71
 #ема , а я уже и забыл, что стихи именно в этом файле, нахера мучлся в poetry.rpy? А, не норм, как раз листик перевёл
+#Перепроверь перед комитом.
 init 1 python:
     ru_long_wait = Poem(
         author_s,

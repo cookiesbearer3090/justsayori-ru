@@ -18,7 +18,7 @@ translate ru strings:
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Самоозвучка включена"
+    new "Самоозвучка включена."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -810,7 +810,7 @@ translate ru strings:
 
     # renpy/common/00preferences.rpy:725
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Самоозвучка сказала бы \"[renpy.display.tts.last]\". Нажмите 'alt+shift+V' чтобы отключить"
+    new "Самоозвучка сказала бы \"[renpy.display.tts.last]\". Нажмите 'alt+shift+V', чтобы отключить"
 
     # renpy/common/00preferences.rpy:727
     old "Self-voicing enabled. Press 'v' to disable."
@@ -898,7 +898,7 @@ translate ru strings:
 
     # renpy/common/00sync.rpy:507
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Вы можете использовать этот ID чтобы скачать своё сохранение на другом устройстве.\nID истечёт через час.\nRen'Py Sync работает благодаря {a=https://www.renpy.org/sponsors.htmlСпонсорам }Ren'Py{/a}."
+    new "Вы можете использовать этот ID чтобы скачать своё сохранение на другом устройстве.\nID истечёт через час.\nRen'Py Sync работает благодаря {a=https://www.renpy.org/sponsors.html}Ren'Py  Спонсоры{/a}."
 
     # renpy/common/00sync.rpy:511
     old "Continue"
@@ -922,7 +922,7 @@ translate ru strings:
 
     # renpy/common/00iap.rpy:231
     old "Contacting App Store\nPlease Wait..."
-    new "Пытаемся Связаться с App Store\nПожалуйста Подождите..."
+    new "Пытаемся Связаться с App Store\nПожалуйста, подождите..."
 
     # renpy/common/00updater.rpy:415
     old "No update methods found."
@@ -1254,7 +1254,7 @@ translate ru strings:
 
     # renpy/common/_errorhandling.rpym:863
     old "Quits the game."
-    new "Выходит из игры"
+    new "Выходит из игры."
 
     # renpy/common/_errorhandling.rpym:885
     old "Parsing the script failed."

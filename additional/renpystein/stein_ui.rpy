@@ -41,15 +41,15 @@ translate ru strings:
 
     # game/additional/renpystein/stein_ui.rpy:150
     old "High"
-    new "Высоко"
+    new "Высокое"
 
     # game/additional/renpystein/stein_ui.rpy:151
     old "Low"
-    new "Низко"
+    new "Низкое"
 
     # game/additional/renpystein/stein_ui.rpy:152
     old "Ultra Low"
-    new "Ультранизко"
+    new "Ультранизкое"
 
     # game/additional/renpystein/stein_ui.rpy:156
     old "MS Paint is Better"
@@ -61,7 +61,7 @@ translate ru strings:
 
     # game/additional/renpystein/stein_ui.rpy:164
     old "Lighting"
-    new "Вспышки"
+    new "Освещение"
 
     # game/additional/renpystein/stein_ui.rpy:177
     old "Post-Processing"
@@ -129,7 +129,7 @@ translate ru strings:
 
     # game/additional/renpystein/stein_ui.rpy:343
     old "Level 2 (Locked)"
-    new "Уровень 2 (Недоступно)"
+    new "Уровень 2 (Недоступноо)"
 
     # game/additional/renpystein/stein_ui.rpy:343
     old "Complete Level 1 first!"

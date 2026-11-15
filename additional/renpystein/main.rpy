@@ -4,7 +4,7 @@
 translate ru renpystein_game_7d968efe:
 
     # s "You survived [renpy.store.last_arena_round] rounds and collected [stein_session_coins] Coins."
-    s "Ты выжил  [renpy.store.last_arena_round] раундов и собрал [stein_session_coins] монет"
+    s "Ты пережил [renpy.store.last_arena_round] раундов и собрал [stein_session_coins] монет"
 
 # game/additional/renpystein/main.rpy:518
 translate ru renpystein_game_0e5dab40:
@@ -28,7 +28,7 @@ translate ru renpystein_game_e861930e:
 translate ru renpystein_game_c9f0d7f5:
 
     # s "You have a high score of [persistent.sayoristein_arena_highscore]."
-    s "У тебя новый рекорд: [persistent.sayoristein_arena_highscore]"
+    s "У тебя рекорд: [persistent.sayoristein_arena_highscore]"
 
 # game/additional/renpystein/main.rpy:526
 translate ru renpystein_game_f8fd91a9:
@@ -52,5 +52,5 @@ translate ru strings:
 
     # game/additional/renpystein/main.rpy:55
     old "Sayoristein 3D is unavailable in this build."
-    new "Врата Сайори 3д доступна в этом билде"
+    new "Sayoristein 3D недоступна в этом билде"
 

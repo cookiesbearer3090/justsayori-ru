@@ -10,13 +10,13 @@ translate ru fae_player_bday_autoload_10ca24c7:
 translate ru fae_player_bday_autoload_bf15027c:
 
     # s abgcaaa "Happy birthday to you~"
-    s abgcaaa "С днём тебя~"
+    s abgcaaa "С днём рождения~"
 
 # game/dialogs/script-holidays.rpy:12
 translate ru fae_player_bday_autoload_cfdeb421:
 
     # s abgccob "Happy birthday dear [player]~"
-    s abgccob "С днём дорогой [player]~"
+    s abgccob "С днём рождения, дорогой [player]~"
 
 # game/dialogs/script-holidays.rpy:13
 translate ru fae_player_bday_autoload_5b551de8:
