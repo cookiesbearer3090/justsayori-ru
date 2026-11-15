@@ -227,7 +227,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:222
     old "DDLC.so[[3352]: nvdrs: Disabled thread optimizations."
-    new ""DDLC.so[[3352]: nvdrs: Оптимизация потоков отключена."
+    new "DDLC.so[[3352]: nvdrs: Оптимизация потоков отключена." #""
 
     # game/mod_extras/bsod.rpy:223
     old "DDLC.so: SUCCESS."

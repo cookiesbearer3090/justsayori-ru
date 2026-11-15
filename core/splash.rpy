@@ -16,7 +16,7 @@ translate ru splashscreen_12775544:
 translate ru splashscreen_e193832f:
 
     # "Game files for Doki Doki Literature Club are required to play this mod and can be downloaded for free at: http://ddlc.moe"
-    "Официальные файлы для работы игры могут быть загружены отсюда:http://ddlc.moe или со стима(ато ты ж конечно смог это запустить без файлов ориг игры)."
+    "Официальные файлы для работы игры могут быть загружены отсюда: http://ddlc.moe или со стима(ато ты ж конечно смог это запустить без файлов ориг игры)."
 
 # game/core/splash.rpy:392
 translate ru after_load_78a4e9dc:

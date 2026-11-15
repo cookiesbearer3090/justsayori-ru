@@ -82,7 +82,7 @@ translate ru fae_event_mr_cow_transform_7bffc449:
 translate ru fae_event_mr_cow_transform_47f86d5a:
 
     # s abgcdoa "Now I'll always have someone to cuddle with, and it'll never get {i}too{/i} lonely in here!"
-    s abgcdoa "Теперь у меня есть напарник для обнимашек! И теперь я никуда не буду {/i}одна здесь!"
+    s abgcdoa "Теперь у меня есть напарник для обнимашек! И теперь я никуда не буду {i}одна{/i} здесь!"
 
 # game/dialogs/script-events.rpy:143
 translate ru fae_event_mr_cow_transform_5caa86e4:

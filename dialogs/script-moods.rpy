@@ -364,7 +364,7 @@ translate ru s_mood_sad_16d2629d:
 translate ru s_mood_sad_cb06c228:
 
     # s "It might help to do something you enjoy to take your mind away from the problem."
-    s "Возможно, тебе стоит позаниматься  любимоым делом , отвлечься от проблемы."
+    s "Возможно, тебе стоит позаниматься  любимым делом , отвлечься от проблемы."
 
 # game/dialogs/script-moods.rpy:204
 translate ru s_mood_sad_b872eccc:

@@ -1,5 +1,5 @@
 # TODO: Translation updated at 2026-11-02 11:36
-#1-199 MINE AND 8382-8455 ANOTHER FROM https://github.com/New-Traduction-Club/justsayori-mod-tl-russian
+#1-199 MINE AND 8382-8455 ANOTHER FROM https://github.com/New-Traduction-Club/justsayori-mod-tl-russian да ема, тут тоже не всё? 1766-18 какая-то там, мне ещё грам. ошибки исправлять.А тут хоаб
 # game/dialogs/script-topics.rpy:42
 translate rus fae_room_switch_ed1dfb9d:
 
