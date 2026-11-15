@@ -32,44 +32,44 @@ init 1 python:
         )
     )
 
-
+#Это кнш стих с ориг игры,но я как понял, что другой переводчик переводит их на свой лад, поэтому я не крал этот стиз с ориг игры, просто адаптировал(смысл вроде сохранил)
     ru_poem_bottles = Poem(
         author_s,
-        title = _("Bottles"),
+        title = _("Бутылочки"),
         text = _("""\
-I pop off my scalp like the lid of a cookie jar. # i will translate
-It's the secret place where I keep all my dreams.
-Little balls of sunshine, all rubbing together like a bundle of kittens.
-I reach inside with my thumb and forefinger and pluck one out.
-It's warm and tingly.
-But there's no time to waste! I put it in a bottle to keep it safe.
-And I put the bottle on the shelf with all of the other bottles.
-Happy thoughts, happy thoughts, happy thoughts in bottles, all in a row.
-My collection makes me lots of friends.
-Each bottle a starlight to make amends.
-Sometimes my friend feels a certain way.
-Down comes a bottle to save the day.
-Night after night, more dreams.
-Friend after friend, more bottles.
-Deeper and deeper my fingers go.
-Like exploring a dark cave, discovering the secrets hiding in the nooks and crannies.
-Digging and digging.
-Scraping and scraping.
-I blow dust off my bottle caps.
-It doesn't feel like time elapsed.
-My empty shelf could use some more.
-My friends look through my locked front door.
-Finally, all done. I open up, and in come my friends.
-In they come, in such a hurry. Do they want my bottles that much?
-I frantically pull them from the shelf, one after the other.
-Holding them out to each and every friend.
-Each and every bottle.
-But every time I let one go, it shatters against the tile between my feet.
-Happy thoughts, happy thoughts, happy thoughts in shards, all over the floor.
-They were supposed to be for my friends, my friends who aren't smiling.
-They're all shouting, pleading. Something.
-But all I hear is echo, echo, echo, echo, echo
-Inside my head."""
+Я открываю свою голову, словно коробку с печеньями. 
+Это место всех секретов моих.
+Маленькие солнечные шарики, трущиеся, словно комочек котят.
+Я просовываю палец внутрь и вытаскиваю один.
+Он тёплый и щекочущий.
+Но нет времени ждать! Я кладу шарик в бутылочку.
+И ставлю на полку бутылочку.
+Счастливые мысли, счастливые мысли, счастливые мысли в бутылочках в ряд.
+С ними много друзей заведу я.
+Каждая бутылочка - свет, чтобы загладить вину.
+Когда другу моему будет плохо.
+Бутылочка спустится ради него.
+Ночь за ночью - больше снов.
+Друг за другом - больше бутылочек.
+Глубже и глубже лезет пальчик мой.
+Будто исследует пещеру с множеством тайн.
+Копает всё глубже.
+Скребёт я всё дальше.
+С крышек бутылок сдуваю я пыль.
+Ставила бутылку будто вчера.
+Моей пустрой полке нужно ещё.
+Вижу друзей через закрытую дверь.
+Наконец всё готово! Открыв дверь входят они
+Они входят, так торопясь. Неужели так хотят мой бутыльки?
+Я вытаскиваю их с полки, одну за другой.
+Протягиваю их каждому с радостью.
+Каждую бутылёк и каждую бутылку.
+Но каждый раз они разбиваются прямо об плитку около моих ног.
+Счастливые мысли, счастливые мысли, счастливые мысли в осколках по дому.
+Они были для друзей, которые не улыбаются.
+Они все кричат. Они что-то просят.
+Но в голове моей только эхо, эхо, эхо, эхо, эхо,
+Внутри моей головы."""
         )
     )
 
