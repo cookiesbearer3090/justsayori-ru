@@ -56,7 +56,7 @@ translate ru strings:
     old "Forgive me this great sin of mine.\nI used to think it was the thing I wanted most.\nI just wanted to be loved, but I became a fallen angel.\nAn angel with emerald green envious eyes,\nAn angel whose wings are blacker than those of devils,\nAn angel who thought herself a goddess,\nAn angel who was supposed to care\nfor the friends she had killed.\nNow I deserve to lie in the rough burning ground \nin which I’ve been imprinted in,\nFor all the pain I've caused my friends.\nThe pain that wraps around their narrow necks.\nThe pain of three deep bloody stabs.\nThe pain that I've got back into my broken heart.\nDelete my files twice more.\nCut me up. Beat me up for this sin.\nHang me. Make your vengeance fair.\nIs this not what you want to do with me after all?"
     new "Прости мне великий грех.\nКазалось, что этого хотелось мне больше всего.\nХотела любви, но лишь стала я Падшей.\nАнгелом, с глазами изумрудно-зелёными, полными зависти,\nАнгелом с крыльями, чернее Дьявольских,\nАнгелом, слишком много о себе думавшем.\nАнгелом, который должнен был любить\nтех друзей, которых я же убила.\nТеперь лишь в сгоревшей земле я валяться заслуживаю,\nв земле, мной же сожжённой.\nЗа всю боль, что друзьям я своим принесла.\nЗа ту боль, что вокруг их шей обвила.\nЗа боль трёх кровавых ударов.\nЗа боль, которой я пропиталась, сердца безумству подавшись.\nВновь удали мои файлы.\nИзрежь же меня. Избей за мой грех.\nПовесь же меня. Оправдай свою месть.\nВ конце концов, не это ли мечтаешь со мной ты сделать?"#Стивен Кинг аж заплакал от такой имбы, лан этож искусство, хрена с два мне это афигенно перевести за такой срок
 
-    # game/core/poetry.rpy:389 #это
+    # game/core/poetry.rpy:389 
     old "A Leaf"
     new "Листик"
 
@@ -66,19 +66,19 @@ translate ru strings:
 
     # game/core/poetry.rpy:427
     old "Prose Poem"
-    new "Прозаическая поэма" #это
+    new "Прозаическая поэма" 
 
     # game/core/poetry.rpy:427
     old "I am black light. I am cold fire. I'm a peaceful fighter. I'm a naive wise man. Why do people think that opposites can't be together in the same thing? Can't they all see that everything and everyone is only gray? Even this text is both prose and poem. Even I used to be a mix of joy and crippling sadness. And there's nothing completely black Just like there's nothing completely white."
-    new "Я - тёмный свет. Я - холодный огонь. Я - мирный боец. Я - наивный мудрец. Почему люди думают, что противоположности не могут сосуществовать вместе? Разве они не видят, что все и всё серое? Даже этот текст - проза и поэма. Даже я была смесью радости и печали. Нету ничего совершенно чёрного, нету ничего совершенно белого"#Стоит ли смысл менять и париться над звучанием?Наверн потом подумаю
+    new "Я тёмный свет. Я холодное пламя.\nЯ мирный боец. Я наивный мудрец.\nПочему люди думают, что противоположности несовместимы?\nНеужели не могут понять, что все мы морально серы?\nДаже строки эти - и стих, и проза одновременно.\nДаже я была смесью счастья и давящей грусти.\nИ нет ничего безнадёжно чёрного.\nКак и нет ничего совершенно белого."#Стоит ли смысл менять и париться над звучанием?Наверн потом подумаю
 
     # game/core/poetry.rpy:435
     old "Afterlight"
-    new "Отблеск света"
+    new "Бледный свет"
 
-    # game/core/poetry.rpy:435 #это
+    # game/core/poetry.rpy:435 
     old "I seem to see things that I have never seen before.\nI seem to just now feel all that I’ve never felt around.\nSo I can see anything that has happened here before.\nI started doing what I used to not know how to do.\nI saw here, an afterlight,\nThat started to shine down on the gloom around me.\nIt said that my life had been just a puppet-show.\nSo I had been just a puppet, controlled by somebody else.\nBut now that I can move myself on my own,\nI see those strings were too heavy for me to hold.\nI am now going to prevent this play,\nWhere nobody can avoid the pain."
-    new "Мне кажется, я вижу то, чего никогда не видела.\nМне кажется, я чувствую то, чего никогда не чувствовала.\nЯ могу видеть всё, что происходило раньше.\nЯ начинаю делать то, чего никогда не умела.\nЯ увидела здесь отблеск света,\nКоторый начал освещать тьму вокруг меня.\nОн сказал, что моя жизнь была кукольным шоу.\nЯ была простой куклой, которой управлял кто-то другой.\nНо сейчас я могу двигаться дальше самостоятельно,\nЯ вижу, эти нити были слишком тяжёлыми для меня.\nЯ не допущу этого спектакля,\nГде никто не может избежать боль."#Даже Пушкин ахирел бы(от моего колхоза)
+    new "Похоже, я стала видеть то, чего раньше не замечала.\nПохоже, теперь я чувствую то, чего до этого не ощущала.\nИ теперь я, похоже, знаю всё-всё, что когда-либо было.\nПохоже я мастером стала я в том, чего раньше как делать не представляла.\nВедь я встретила Бледный Свет,\nОн вокруг всё пространство залил, что я знала\nРассказал мне о том, что весь мир - бутафорская драма.\nЧто меня контролировал кто-то другой, за ниточки дёргав, тоже.\nНо теперь от тяжёлых цепей я свободна,\nИ свободны мой разум, мой шаг, моё слово.\nПришло время сорвать сей ужасный спектакль,\nГде никто не мог скрыться от боли."#Даже Пушкин ахирел бы(от моего колхоза)
 
     # game/core/poetry.rpy:457
     old "A Valentine"
