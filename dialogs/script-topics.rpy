@@ -1772,7 +1772,7 @@ translate ru s_topics_public_service_announcement_7889819e:
 translate ru s_topics_public_service_announcement_5d48d9b8:
 
     # extend abbcaoa "a PSA would be a good way to do it."
-    extend abbcaoa ""
+    extend abbcaoa "то социальная реклама может быть хорошим вариантом сделать это."
 
 # game/dialogs/script-topics.rpy:757
 translate ru s_topics_public_service_announcement_4b122c27:
