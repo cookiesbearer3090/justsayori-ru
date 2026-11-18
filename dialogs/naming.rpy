@@ -4,7 +4,7 @@
 translate ru sayori_give_nickname_e2580eb8:
 
     # s abfcaoa "Sure!"
-    s abfcaoa "Конечно"
+    s abfcaoa "Конечно!"
 
 # game/dialogs/naming.rpy:213
 translate ru sayori_give_nickname_8a18f0d4:

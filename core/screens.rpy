@@ -168,7 +168,7 @@ translate ru strings:
 
     # game/core/screens.rpy:881
     old "Default Font"
-    new "Дефолтный Шрифт"
+    new "Обычный" 
 
     # game/core/screens.rpy:882
     old "You need to restart the game for the font change to take effect."
@@ -176,7 +176,7 @@ translate ru strings:
 
     # game/core/screens.rpy:888
     old "Alternate Font"
-    new "Альтернативный Шрифт"
+    new "Альтернативный"
 
     # game/core/screens.rpy:921
     old "There is no recent news."

@@ -8,7 +8,7 @@ translate ru strings:
 
 # game/mod_extras/bsod.rpy:74
     old "The problem seems to be caused by the following file: "
-    new "Проблема вызыана следующим файлом: "
+    new "Проблема вызвана следующим файлом: "
 
     # game/mod_extras/bsod.rpy:76
     old "If this is the first time you've seen this Stop error screen, restart your computer. If this screens appears again, follow these steps:"
@@ -19,8 +19,8 @@ translate ru strings:
     new "Убедитесь, что новое недавно подключённое оборудование/установленное ПО работает исправно. Узнайте у производителя обо всех обновлениях Windows, которые необходимы для корректной работы оборудования."
 
     # game/mod_extras/bsod.rpy:78
-old "If problems continue, disable or remove any newly installed hardware or software. Disable BIOS memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced Startup Options, and then select Safe Mode."
-new "Если проблема сохраняется, отключите всё недавно установленное оборудование или ПО. Отключите опции памяти BIOS, такие как кэширование или теневую память. Если вам необходимо войти в Безопасный Режим или отключить некоторые компоненты, перезапустите компьютер, нажмите F8, чтобы выбрать Дополнительные Параметры Запуска, и затем выберите Безопасный Режим."
+    old "If problems continue, disable or remove any newly installed hardware or software. Disable BIOS memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced Startup Options, and then select Safe Mode."
+    new "Если проблема сохраняется, отключите всё недавно установленное оборудование или ПО. Отключите опции памяти BIOS, такие как кэширование или теневую память. Если вам необходимо войти в Безопасный Режим или отключить некоторые компоненты, перезапустите компьютер, нажмите F8, чтобы выбрать Дополнительные Параметры Запуска, и затем выберите Безопасный Режим."
 
     # game/mod_extras/bsod.rpy:79
     old "Technical information:"
@@ -51,7 +51,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:98
     old "If you'd like to know more, you can search online later for this error: "
-    new "Дополнительные сведения об этой проблеме см. здесь: https://sayori.chr/help"
+    new "Дополнительные сведения об этой проблеме см. здесь: "
 
     # game/mod_extras/bsod.rpy:131
     old "Your PC ran into a problem and needs to restart. We're"
@@ -63,7 +63,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:133
     old "you."
-    new "тебя"
+    new "вас"
 
     # game/mod_extras/bsod.rpy:137
     old "Your device ran into a problem and needs to restart."
@@ -151,7 +151,7 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:202
     old "  https://www.metaverse-enterprise.com/network/metaverse-pci.html"
-    new "https://www.metaverse-enterprise.com/network/metaverse-pci.html"
+    new "  https://www.metaverse-enterprise.com/network/metaverse-pci.html"
 
     # game/mod_extras/bsod.rpy:203
     old "hda0: METAVERSE ENTERPRISE VIRTUAL HARDDISK, ATA DISK drive"
@@ -223,11 +223,11 @@ new "Если проблема сохраняется, отключите всё
 
     # game/mod_extras/bsod.rpy:221
     old "DDLC.so[[3352]: nvdrs: Loaded, about to disable thread optimizations."
-    new "DDLC.so[[3352]: nvdrs: Подгружено, отключаем оптимизацию потоков.."
+    new "DDLC.so[[3352]: nvdrs: Подгружено, отключаем оптимизацию потоков."
 
     # game/mod_extras/bsod.rpy:222
     old "DDLC.so[[3352]: nvdrs: Disabled thread optimizations."
-    new "DDLC.so[[3352]: nvdrs: Оптимизация потоков отключена." #""
+    new "DDLC.so[[3352]: nvdrs: Оптимизация потоков отключена."
 
     # game/mod_extras/bsod.rpy:223
     old "DDLC.so: SUCCESS."

@@ -742,7 +742,7 @@ translate ru s_mood_depressed_1d573dd5:
 translate ru s_mood_depressed_e1de2c58:
 
     # s bbhfica "Because no matter how loud those rainclouds get and no matter how hard things seem to be… there is always a glimpse of hope. A light at the end of the tunnel."
-    s bbhfica "Потому что, неважно насколько большие серые тучки, насколько тяжёлые мысли... Всегда есть надежда. Свет в конце тунеля."
+    s bbhfica "Потому что, неважно насколько большие серые тучки и насколько тяжёлые мысли... Всегда есть надежда. Свет в конце туннеля."
 
 # game/dialogs/script-moods.rpy:399
 translate ru s_mood_depressed_fdd9f344:
@@ -772,7 +772,7 @@ translate ru s_mood_depressed_6e370263:
 translate ru s_mood_nostalgic_e25cec73:
 
     # s abagaca "Nostalgic, huh? I know that feeling."
-    s abagaca "Настольгия, хмм? Я знаю это чувство."
+    s abagaca "Ностольгия, хмм? Я знаю это чувство."
 
 # game/dialogs/script-moods.rpy:419
 translate ru s_mood_nostalgic_6ae3a2d5:

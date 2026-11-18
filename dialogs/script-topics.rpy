@@ -5522,7 +5522,7 @@ translate ru s_answer_programming_39f762f6:
 translate ru s_answer_programming_6036a3a2:
 
     # s ebgcbga "\"Tuple index out of range\", \"perhaps you forgot a ‘)’ at the end of the line...\""
-    s ebgcbga "\"Индекс массива находится за его пределами\", \"возможно вы забыли ')' в конце строки...\w"
+    s ebgcbga "\"Индекс массива находится за его пределами\", \"возможно вы забыли ')' в конце строки...\""
 
 # game/dialogs/script-topics.rpy:2485
 translate ru s_answer_programming_70400fbc:
@@ -5858,7 +5858,7 @@ translate ru s_topics_programming_4590f619:
 translate ru s_topics_programming_d9944976:
 
     # s abhebca "At least that’s what some professional programmers online said, {w=0.5}{nw}"
-    s abhebca "По крайней мере так говрят в инете программисты-профессионалы, {w=0.5}{{nw}}"
+    s abhebca "По крайней мере так говрят в инете программисты-профессионалы, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:2689
 translate ru s_topics_programming_9eca465d:

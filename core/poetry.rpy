@@ -78,7 +78,7 @@ translate ru strings:
 
     # game/core/poetry.rpy:435 
     old "I seem to see things that I have never seen before.\nI seem to just now feel all that I’ve never felt around.\nSo I can see anything that has happened here before.\nI started doing what I used to not know how to do.\nI saw here, an afterlight,\nThat started to shine down on the gloom around me.\nIt said that my life had been just a puppet-show.\nSo I had been just a puppet, controlled by somebody else.\nBut now that I can move myself on my own,\nI see those strings were too heavy for me to hold.\nI am now going to prevent this play,\nWhere nobody can avoid the pain."
-    new "Похоже, я стала видеть то, чего раньше не замечала.\nПохоже, теперь я чувствую то, чего до этого не ощущала.\nИ теперь я, похоже, знаю всё-всё, что когда-либо было.\nПохоже я мастером стала я в том, чего раньше как делать не представляла.\nВедь я встретила Бледный Свет,\nОн вокруг всё пространство залил, что я знала\nРассказал мне о том, что весь мир - бутафорская драма.\nЧто меня контролировал кто-то другой, за ниточки дёргав, тоже.\nНо теперь от тяжёлых цепей я свободна,\nИ свободны мой разум, мой шаг, моё слово.\nПришло время сорвать сей ужасный спектакль,\nГде никто не мог скрыться от боли."#Даже Пушкин ахирел бы(от моего колхоза)
+    new "Похоже, я стала видеть то, чего раньше не замечала.\nПохоже, теперь я чувствую то, чего до этого не ощущала.\nИ теперь я, похоже, знаю всё-всё, что когда-либо было.\nПохоже я мастером стала в том, чего раньше как делать не представляла.\nВедь я встретила Бледный Свет,\nОн вокруг всё пространство залил, что я знала\nРассказал мне о том, что весь мир - бутафорская драма.\nЧто меня контролировал кто-то другой, за ниточки дёргав, тоже.\nНо теперь от тяжёлых цепей я свободна,\nИ свободны мой разум, мой шаг, моё слово.\nПришло время сорвать сей ужасный спектакль,\nГде никто не мог скрыться от боли."#Даже Пушкин ахирел бы(от моего колхоза)
 
     # game/core/poetry.rpy:457
     old "A Valentine"
@@ -122,7 +122,7 @@ translate ru strings:
 
     # game/core/poetry.rpy:543
     old "afterlight"
-    new "Отблеск света"
+    new "Бледеный свет"
 
     # game/core/poetry.rpy:543
     old "nevermind"
